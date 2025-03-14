@@ -34,7 +34,7 @@ public class Contador {
         try {
             return scanner.nextInt();
         } catch (InputMismatchException e) {
-            scanner.nextLine(); // Limpa o buffer do scanner
+            scanner.nextLine();
             throw new InputMismatchException("Valor inserido não é um número inteiro.");
         }
     }
