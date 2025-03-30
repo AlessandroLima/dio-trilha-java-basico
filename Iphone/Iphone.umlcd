@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_FCamQA2ZEfCLz8n5Tgudrw">
+  <modelElement href="Iphone.uml#_FA3uIA2ZEfCLz8n5Tgudrw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_IQ7wsA2ZEfCLz8n5Tgudrw" sourceAnchor="100.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_IQRpYA2ZEfCLz8n5Tgudrw" containedItem="_IRH98A2ZEfCLz8n5Tgudrw">
+    <bendpoints xmi:id="_I_AXoA2ZEfCLz8n5Tgudrw" sourceY="-17" targetX="130" targetY="37"/>
+    <bendpoints xmi:id="_I_A-sA2ZEfCLz8n5Tgudrw" sourceX="-130" sourceY="-17" targetY="37"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_IRwQEA2ZEfCLz8n5Tgudrw" sourceAnchor="126.0,0.0" targetAnchor="100.0,122.0" dashed="true" superClass="_IRH98A2ZEfCLz8n5Tgudrw" subClass="_IS3qYA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FQyZcA2ZEfCLz8n5Tgudrw"/>
+    <bendpoints xmi:id="_I_A-sQ2ZEfCLz8n5Tgudrw" sourceY="-20" targetX="-143" targetY="17"/>
+    <bendpoints xmi:id="_I_A-sg2ZEfCLz8n5Tgudrw" sourceX="143" sourceY="-20" targetY="17"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_ISf28A2ZEfCLz8n5Tgudrw" sourceAnchor="113.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_IQRpYA2ZEfCLz8n5Tgudrw" containedItem="_IS3qYA2ZEfCLz8n5Tgudrw">
+    <bendpoints xmi:id="_I_A-sw2ZEfCLz8n5Tgudrw" sourceY="-176" targetX="-26" targetY="37"/>
+    <bendpoints xmi:id="_I_A-tA2ZEfCLz8n5Tgudrw" sourceX="26" sourceY="-176" targetY="37"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_IVlnMA2ZEfCLz8n5Tgudrw" sourceAnchor="110.0,77.0" targetAnchor="0.0,68.0" target="_IcHF8A2ZEfCLz8n5Tgudrw" source="_IUSmsA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FRDfMA2ZEfCLz8n5Tgudrw"/>
+    <nameVisual xmi:id="_IX57YA2ZEfCLz8n5Tgudrw" text="">
+      <visualProperties xmi:id="_I_F3MA2ZEfCLz8n5Tgudrw" position="9.5,-7.5"/>
+    </nameVisual>
+    <sourceRole xmi:id="_IX57YQ2ZEfCLz8n5Tgudrw" aggregationKind="NONE" name="genero" navigable="true">
+      <modelElement href="Iphone.uml#_FQ-msQ2ZEfCLz8n5Tgudrw"/>
+      <visualProperties xmi:id="_I_FQIw2ZEfCLz8n5Tgudrw" position="5.0,-46.5"/>
+      <visibility xmi:id="_IbA5wQ2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IbA5wA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_IX57Yg2ZEfCLz8n5Tgudrw" aggregationKind="NONE" name="">
+      <modelElement href="Iphone.uml#_FREGQA2ZEfCLz8n5Tgudrw"/>
+      <visualProperties xmi:id="_I_F3MQ2ZEfCLz8n5Tgudrw" position="-19.0,5.5"/>
+      <visibility xmi:id="_Ib_KIA2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IbR_gA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_IZvHYA2ZEfCLz8n5Tgudrw" sourceAnchor="55.0,0.0" targetAnchor="54.0,56.0" enclosingItem="_ITmDIA2ZEfCLz8n5Tgudrw" containedItem="_IUSmsA2ZEfCLz8n5Tgudrw">
+    <bendpoints xmi:id="_I_BlwA2ZEfCLz8n5Tgudrw" sourceY="-144" targetX="-533" targetY="37"/>
+    <bendpoints xmi:id="_I_BlwQ2ZEfCLz8n5Tgudrw" sourceX="533" sourceY="-144" targetY="37"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_IamDAA2ZEfCLz8n5Tgudrw" sourceAnchor="280.0,0.0" targetAnchor="54.0,56.0" enclosingItem="_ITmDIA2ZEfCLz8n5Tgudrw" containedItem="_IcHF8A2ZEfCLz8n5Tgudrw">
+    <bendpoints xmi:id="_I_Blwg2ZEfCLz8n5Tgudrw" sourceY="-153" targetX="-26" targetY="37"/>
+    <bendpoints xmi:id="_I_Blww2ZEfCLz8n5Tgudrw" sourceX="26" sourceY="-153" targetY="37"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_Id9gEA2ZEfCLz8n5Tgudrw" sourceAnchor="57.0,0.0" targetAnchor="54.0,56.0" enclosingItem="_ITmDIA2ZEfCLz8n5Tgudrw" containedItem="_Ifct0A2ZEfCLz8n5Tgudrw">
+    <bendpoints xmi:id="_I_CM0A2ZEfCLz8n5Tgudrw" sourceY="-26" targetX="715" targetY="37"/>
+    <bendpoints xmi:id="_I_CM0Q2ZEfCLz8n5Tgudrw" sourceX="-715" sourceY="-26" targetY="37"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Igq10A2ZEfCLz8n5Tgudrw" sourceAnchor="96.0,0.0" targetAnchor="293.0,0.0" target="_IcHF8A2ZEfCLz8n5Tgudrw" source="_IkGkUA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FRGigA2ZEfCLz8n5Tgudrw"/>
+    <bendpoints xmi:id="_I_CM0g2ZEfCLz8n5Tgudrw" sourceY="-81" targetX="637" targetY="-75"/>
+    <bendpoints xmi:id="_I_CM0w2ZEfCLz8n5Tgudrw" sourceX="-637" sourceY="-81" targetY="-75"/>
+    <stereotypes xmi:id="_IjoDMg2ZEfCLz8n5Tgudrw" name="Reference">
+      <modelElement href="Iphone.uml#_FRHJkA2ZEfCLz8n5Tgudrw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_IjncIA2ZEfCLz8n5Tgudrw" text="">
+      <visualProperties xmi:id="_I_HsYA2ZEfCLz8n5Tgudrw" position="-235.0,-7.500000000000085"/>
+    </nameVisual>
+    <sourceRole xmi:id="_IjoDMA2ZEfCLz8n5Tgudrw" aggregationKind="NONE" name="">
+      <modelElement href="Iphone.uml#_FRGigQ2ZEfCLz8n5Tgudrw"/>
+      <visualProperties xmi:id="_I_HFUA2ZEfCLz8n5Tgudrw" position="-19.0,-75.5"/>
+      <visibility xmi:id="_IkC58Q2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IkC58A2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_IjoDMQ2ZEfCLz8n5Tgudrw" aggregationKind="NONE" name="playlist" navigable="true">
+      <modelElement href="Iphone.uml#_FQ-msg2ZEfCLz8n5Tgudrw"/>
+      <visualProperties xmi:id="_I_HsYQ2ZEfCLz8n5Tgudrw" position="5.0,-121.49999999999991"/>
+      <visibility xmi:id="_IkDhAQ2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IkDhAA2ZEfCLz8n5Tgudrw" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_IiVCsA2ZEfCLz8n5Tgudrw" sourceAnchor="0.0,62.0" targetAnchor="560.0,68.0" target="_IcHF8A2ZEfCLz8n5Tgudrw" source="_IkGkUA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FRHwoA2ZEfCLz8n5Tgudrw"/>
+    <stereotypes xmi:id="_IjoqQQ2ZEfCLz8n5Tgudrw" name="Reference">
+      <modelElement href="Iphone.uml#_FRIXsA2ZEfCLz8n5Tgudrw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_IjoDMw2ZEfCLz8n5Tgudrw" text="">
+      <visualProperties xmi:id="_I_I6gA2ZEfCLz8n5Tgudrw" position="30.0,-7.5"/>
+    </nameVisual>
+    <sourceRole xmi:id="_IjoDNA2ZEfCLz8n5Tgudrw" aggregationKind="NONE" name="">
+      <modelElement href="Iphone.uml#_FRHwoQ2ZEfCLz8n5Tgudrw"/>
+      <visualProperties xmi:id="_I_ITcA2ZEfCLz8n5Tgudrw" position="-19.0,5.5"/>
+      <visibility xmi:id="_IkDhBA2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IkDhAw2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_IjoqQA2ZEfCLz8n5Tgudrw" aggregationKind="NONE" name="musicaSelecionada" navigable="true">
+      <modelElement href="Iphone.uml#_FQ_00A2ZEfCLz8n5Tgudrw"/>
+      <visualProperties xmi:id="_I_JhkA2ZEfCLz8n5Tgudrw" position="5.0,-46.5"/>
+      <visibility xmi:id="_IkEIEQ2ZEfCLz8n5Tgudrw" label="-"/>
+      <cardinality xmi:id="_IkEIEA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_IjFQoA2ZEfCLz8n5Tgudrw" sourceAnchor="122.0,0.0" targetAnchor="57.0,103.0" dashed="true" superClass="_Ifct0A2ZEfCLz8n5Tgudrw" subClass="_IkGkUA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FQ3R8A2ZEfCLz8n5Tgudrw"/>
+    <bendpoints xmi:id="_I_Cz4A2ZEfCLz8n5Tgudrw" sourceY="-16" targetX="-65" targetY="14"/>
+    <bendpoints xmi:id="_I_Cz4Q2ZEfCLz8n5Tgudrw" sourceX="65" sourceY="-16" targetY="14"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_Ij8zUA2ZEfCLz8n5Tgudrw" sourceAnchor="109.0,0.0" targetAnchor="54.0,56.0" enclosingItem="_ITmDIA2ZEfCLz8n5Tgudrw" containedItem="_IkGkUA2ZEfCLz8n5Tgudrw">
+    <bendpoints xmi:id="_I_Da8A2ZEfCLz8n5Tgudrw" sourceY="-159" targetX="637" targetY="37"/>
+    <bendpoints xmi:id="_I_ECAA2ZEfCLz8n5Tgudrw" sourceX="-637" sourceY="-159" targetY="37"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_Im1vQA2ZEfCLz8n5Tgudrw" sourceAnchor="47.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_IlWhgA2ZEfCLz8n5Tgudrw" containedItem="_InyKcA2ZEfCLz8n5Tgudrw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_IrygsA2ZEfCLz8n5Tgudrw" sourceAnchor="120.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_IoqUMA2ZEfCLz8n5Tgudrw" containedItem="_ItFhMA2ZEfCLz8n5Tgudrw">
+    <bendpoints xmi:id="_I_EpEg2ZEfCLz8n5Tgudrw" sourceY="-176" targetX="-26" targetY="37"/>
+    <bendpoints xmi:id="_I_FQIA2ZEfCLz8n5Tgudrw" sourceX="26" sourceY="-176" targetY="37"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_Ityr0A2ZEfCLz8n5Tgudrw" sourceAnchor="133.0,0.0" targetAnchor="107.0,122.0" dashed="true" superClass="_IvYnQA2ZEfCLz8n5Tgudrw" subClass="_ItFhMA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FQ6VQA2ZEfCLz8n5Tgudrw"/>
+    <bendpoints xmi:id="_I_EpEA2ZEfCLz8n5Tgudrw" sourceY="-20" targetX="-156" targetY="17"/>
+    <bendpoints xmi:id="_I_EpEQ2ZEfCLz8n5Tgudrw" sourceX="156" sourceY="-20" targetY="17"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_IupncA2ZEfCLz8n5Tgudrw" sourceAnchor="107.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_IoqUMA2ZEfCLz8n5Tgudrw" containedItem="_IvYnQA2ZEfCLz8n5Tgudrw">
+    <bendpoints xmi:id="_I_FQIQ2ZEfCLz8n5Tgudrw" sourceY="-17" targetX="143" targetY="37"/>
+    <bendpoints xmi:id="_I_FQIg2ZEfCLz8n5Tgudrw" sourceX="-143" sourceY="-17" targetY="37"/>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_IOs8EA2ZEfCLz8n5Tgudrw" name="Iphone">
+    <modelElement href="Iphone.uml#_FA3uIA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_IOs8EQ2ZEfCLz8n5Tgudrw" position="179.0,914.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_IQRpYA2ZEfCLz8n5Tgudrw" containments="_IQ7wsA2ZEfCLz8n5Tgudrw _ISf28A2ZEfCLz8n5Tgudrw" classes="_IRH98A2ZEfCLz8n5Tgudrw _IS3qYA2ZEfCLz8n5Tgudrw" name="navegador">
+    <modelElement href="Iphone.uml#_FPXdIA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_IQRpYQ2ZEfCLz8n5Tgudrw" position="569.0,485.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_IRH98A2ZEfCLz8n5Tgudrw" containment="_IQ7wsA2ZEfCLz8n5Tgudrw" name="Navegador" package="_IQRpYA2ZEfCLz8n5Tgudrw" subclassedBy="_IRwQEA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FP0wIA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_IRH98Q2ZEfCLz8n5Tgudrw" position="646.0,595.0" size="-1.0,-1.0"/>
+    <keywords xmi:id="_IRH98g2ZEfCLz8n5Tgudrw" keyword="sealed"/>
+    <stereotypes xmi:id="_IRH98w2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+      <modelElement href="Iphone.uml#_FP2lUA2ZEfCLz8n5Tgudrw"/>
+    </stereotypes>
+    <visibility xmi:id="_IRH99A2ZEfCLz8n5Tgudrw" label="+"/>
+    <operations xmi:id="_IRH99Q2ZEfCLz8n5Tgudrw" name="exibirPagina">
+      <modelElement href="Iphone.uml#_FP3MYA2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IRH99g2ZEfCLz8n5Tgudrw" name="StyledElement">
+        <modelElement href="Iphone.uml#_FP3zcA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IRH99w2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IRH9-A2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_IRH9-Q2ZEfCLz8n5Tgudrw" name="url">
+        <modelElement href="Iphone.uml#_FP3MYQ2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_IRH9-g2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_IRH9-w2ZEfCLz8n5Tgudrw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_IRH9_A2ZEfCLz8n5Tgudrw" name="adicionarNovaAba">
+      <modelElement href="Iphone.uml#_FP3zcQ2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IRH9_Q2ZEfCLz8n5Tgudrw" name="StyledElement">
+        <modelElement href="Iphone.uml#_FP3zcg2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IRH9_g2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IRH9_w2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_IRH-AA2ZEfCLz8n5Tgudrw" name="atualizarPagina">
+      <modelElement href="Iphone.uml#_FP4agA2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IRH-AQ2ZEfCLz8n5Tgudrw" name="StyledElement">
+        <modelElement href="Iphone.uml#_FP4agQ2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IRIlAA2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IRIlAQ2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_IS3qYA2ZEfCLz8n5Tgudrw" containment="_ISf28A2ZEfCLz8n5Tgudrw" name="NavegadorInternet" package="_IQRpYA2ZEfCLz8n5Tgudrw" generalizations="_IRwQEA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FP5BkA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_IS3qYQ2ZEfCLz8n5Tgudrw" position="477.0,754.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_IS3qYg2ZEfCLz8n5Tgudrw" label="+"/>
+    <operations xmi:id="_IS3qYw2ZEfCLz8n5Tgudrw" name="exibirPagina">
+      <modelElement href="Iphone.uml#_FP6PsA2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IS3qZA2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FP6Psg2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_IS3qZQ2ZEfCLz8n5Tgudrw" name="Annotations">
+        <modelElement href="Iphone.uml#_FP62wA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IS3qZg2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IS3qZw2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_IS3qaA2ZEfCLz8n5Tgudrw" name="url">
+        <modelElement href="Iphone.uml#_FP6PsQ2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_IS3qaQ2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_IS3qag2ZEfCLz8n5Tgudrw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_IS3qaw2ZEfCLz8n5Tgudrw" name="adicionarNovaAba">
+      <modelElement href="Iphone.uml#_FP62wg2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IS3qbA2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FP7d0A2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_IS3qbQ2ZEfCLz8n5Tgudrw" name="Annotations">
+        <modelElement href="Iphone.uml#_FP7d0Q2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IS3qbg2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IS3qbw2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_IS3qcA2ZEfCLz8n5Tgudrw" name="atualizarPagina">
+      <modelElement href="Iphone.uml#_FP8E4A2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IS3qcQ2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FP8E4Q2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_IS3qcg2ZEfCLz8n5Tgudrw" name="Annotations">
+        <modelElement href="Iphone.uml#_FP8r8A2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IS3qcw2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IS3qdA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_ITmDIA2ZEfCLz8n5Tgudrw" containments="_IZvHYA2ZEfCLz8n5Tgudrw _IamDAA2ZEfCLz8n5Tgudrw _Id9gEA2ZEfCLz8n5Tgudrw _Ij8zUA2ZEfCLz8n5Tgudrw" classes="_IUSmsA2ZEfCLz8n5Tgudrw _IcHF8A2ZEfCLz8n5Tgudrw _Ifct0A2ZEfCLz8n5Tgudrw _IkGkUA2ZEfCLz8n5Tgudrw" name="reprodutores">
+    <modelElement href="Iphone.uml#_FPZ5YA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_ITmDIQ2ZEfCLz8n5Tgudrw" position="549.0,30.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:EnumerationVisual" xmi:id="_IUSmsA2ZEfCLz8n5Tgudrw" containment="_IZvHYA2ZEfCLz8n5Tgudrw" name="Genero" package="_ITmDIA2ZEfCLz8n5Tgudrw" associationsOut="_IVlnMA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FP9TAA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_IUSmsQ2ZEfCLz8n5Tgudrw" position="15.0,267.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_IUSmsg2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+      <modelElement href="Iphone.uml#_FP_IMA2ZEfCLz8n5Tgudrw"/>
+    </stereotypes>
+    <stereotypes xmi:id="_IUSmsw2ZEfCLz8n5Tgudrw" name="Patch">
+      <modelElement href="Iphone.uml#_HAI3MA2ZEfCLz8n5Tgudrw"/>
+    </stereotypes>
+    <visibility xmi:id="_IUSmtA2ZEfCLz8n5Tgudrw" label="+"/>
+    <literals xmi:id="_IUSmtQ2ZEfCLz8n5Tgudrw" name="CLASSICA">
+      <modelElement href="Iphone.uml#_FP_IMQ2ZEfCLz8n5Tgudrw"/>
+    </literals>
+    <literals xmi:id="_IUSmtg2ZEfCLz8n5Tgudrw" name="HIPHOP">
+      <modelElement href="Iphone.uml#_FP_IMg2ZEfCLz8n5Tgudrw"/>
+    </literals>
+    <literals xmi:id="_IUSmtw2ZEfCLz8n5Tgudrw" name="JAZZ">
+      <modelElement href="Iphone.uml#_FP_vQA2ZEfCLz8n5Tgudrw"/>
+    </literals>
+    <literals xmi:id="_IUSmuA2ZEfCLz8n5Tgudrw" name="POP">
+      <modelElement href="Iphone.uml#_FP_vQQ2ZEfCLz8n5Tgudrw"/>
+    </literals>
+    <literals xmi:id="_IUSmuQ2ZEfCLz8n5Tgudrw" name="ROCK">
+      <modelElement href="Iphone.uml#_FQAWUA2ZEfCLz8n5Tgudrw"/>
+    </literals>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_IcHF8A2ZEfCLz8n5Tgudrw" containment="_IamDAA2ZEfCLz8n5Tgudrw" name="Musica" package="_ITmDIA2ZEfCLz8n5Tgudrw" associationsIn="_IVlnMA2ZEfCLz8n5Tgudrw _Igq10A2ZEfCLz8n5Tgudrw _IiVCsA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FQA9YA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_IcHF8Q2ZEfCLz8n5Tgudrw" position="297.0,276.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_IcHF8g2ZEfCLz8n5Tgudrw" label="+"/>
+    <attributes xmi:id="_IcHtAA2ZEfCLz8n5Tgudrw" name="titulo">
+      <modelElement href="Iphone.uml#_FQ9_oA2ZEfCLz8n5Tgudrw"/>
+      <visibility xmi:id="_IcHtAQ2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IcHtAg2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <type xmi:id="_IcHtAw2ZEfCLz8n5Tgudrw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_IcHtBA2ZEfCLz8n5Tgudrw" name="artista">
+      <modelElement href="Iphone.uml#_FQ9_oQ2ZEfCLz8n5Tgudrw"/>
+      <visibility xmi:id="_IcHtBQ2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IcHtBg2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <type xmi:id="_IcHtBw2ZEfCLz8n5Tgudrw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_IcHtCA2ZEfCLz8n5Tgudrw" name="duracaoEmSegundos">
+      <modelElement href="Iphone.uml#_FQ-msA2ZEfCLz8n5Tgudrw"/>
+      <visibility xmi:id="_IcHtCQ2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IcHtCg2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <type xmi:id="_IcHtCw2ZEfCLz8n5Tgudrw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_IcHtDA2ZEfCLz8n5Tgudrw" name="genero">
+      <modelElement href="Iphone.uml#_FQ-msQ2ZEfCLz8n5Tgudrw"/>
+      <visibility xmi:id="_IcHtDQ2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IcHtDg2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <type xmi:id="_IcHtDw2ZEfCLz8n5Tgudrw" name="Genero">
+        <modelElement href="Iphone.uml#_FP9TAA2ZEfCLz8n5Tgudrw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_IcHtEA2ZEfCLz8n5Tgudrw" name="toString">
+      <modelElement href="Iphone.uml#_FQCLgA2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IcHtEQ2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FQDZoQ2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_IcHtEg2ZEfCLz8n5Tgudrw" name="Annotations">
+        <modelElement href="Iphone.uml#_FQEAsA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IcHtEw2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IcHtFA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_IcHtFQ2ZEfCLz8n5Tgudrw">
+        <modelElement href="Iphone.uml#_FQDZoA2ZEfCLz8n5Tgudrw"/>
+        <type xmi:id="_IcHtFg2ZEfCLz8n5Tgudrw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_IcHtFw2ZEfCLz8n5Tgudrw" name="Musica">
+      <modelElement href="Iphone.uml#_FQ0OoA2ZEfCLz8n5Tgudrw"/>
+      <keywords xmi:id="_IcHtGA2ZEfCLz8n5Tgudrw" keyword="create"/>
+      <visibility xmi:id="_IcHtGQ2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IcHtGg2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_IcHtGw2ZEfCLz8n5Tgudrw">
+        <modelElement href="Iphone.uml#_FQ01tQ2ZEfCLz8n5Tgudrw"/>
+        <type xmi:id="_IcHtHA2ZEfCLz8n5Tgudrw" name="Musica">
+          <modelElement href="Iphone.uml#_FQA9YA2ZEfCLz8n5Tgudrw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_IcHtHQ2ZEfCLz8n5Tgudrw" name="titulo">
+        <modelElement href="Iphone.uml#_FQ0OoQ2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_IcHtHg2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_IcHtHw2ZEfCLz8n5Tgudrw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_IcHtIA2ZEfCLz8n5Tgudrw" name="artista">
+        <modelElement href="Iphone.uml#_FQ01sA2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_IcHtIQ2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_IcHtIg2ZEfCLz8n5Tgudrw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_IcHtIw2ZEfCLz8n5Tgudrw" name="duracaoEmSegundos">
+        <modelElement href="Iphone.uml#_FQ01sQ2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_IcHtJA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_IcHtJQ2ZEfCLz8n5Tgudrw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_IcHtJg2ZEfCLz8n5Tgudrw" name="genero">
+        <modelElement href="Iphone.uml#_FQ01sg2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_IcHtJw2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_IcHtKA2ZEfCLz8n5Tgudrw" name="Genero">
+          <modelElement href="Iphone.uml#_FP9TAA2ZEfCLz8n5Tgudrw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_Ifct0A2ZEfCLz8n5Tgudrw" containment="_Id9gEA2ZEfCLz8n5Tgudrw" name="Reprodutor" package="_ITmDIA2ZEfCLz8n5Tgudrw" subclassedBy="_IjFQoA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FQGc8A2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_Ifct0Q2ZEfCLz8n5Tgudrw" position="1261.0,149.0" size="-1.0,-1.0"/>
+    <keywords xmi:id="_Ifct0g2ZEfCLz8n5Tgudrw" keyword="sealed"/>
+    <stereotypes xmi:id="_Ifct0w2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+      <modelElement href="Iphone.uml#_FQHrEA2ZEfCLz8n5Tgudrw"/>
+    </stereotypes>
+    <visibility xmi:id="_Ifct1A2ZEfCLz8n5Tgudrw" label="+"/>
+    <operations xmi:id="_Ifct1Q2ZEfCLz8n5Tgudrw" name="tocar">
+      <modelElement href="Iphone.uml#_FQHrEQ2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_Ifct1g2ZEfCLz8n5Tgudrw" name="StyledElement">
+        <modelElement href="Iphone.uml#_FQISIA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ifct1w2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_Ifct2A2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Ifct2Q2ZEfCLz8n5Tgudrw" name="pausar">
+      <modelElement href="Iphone.uml#_FQISIQ2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_Ifct2g2ZEfCLz8n5Tgudrw" name="StyledElement">
+        <modelElement href="Iphone.uml#_FQISIg2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ifct2w2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_Ifct3A2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_IkGkUA2ZEfCLz8n5Tgudrw" containment="_Ij8zUA2ZEfCLz8n5Tgudrw" name="ReprodutorMusical" package="_ITmDIA2ZEfCLz8n5Tgudrw" associationsOut="_Igq10A2ZEfCLz8n5Tgudrw _IiVCsA2ZEfCLz8n5Tgudrw" generalizations="_IjFQoA2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FQI5MA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_IkGkUQ2ZEfCLz8n5Tgudrw" position="1131.0,282.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_IkGkUg2ZEfCLz8n5Tgudrw" name="Patch">
+      <modelElement href="Iphone.uml#_HAKFUA2ZEfCLz8n5Tgudrw"/>
+    </stereotypes>
+    <visibility xmi:id="_IkGkUw2ZEfCLz8n5Tgudrw" label="+"/>
+    <attributes xmi:id="_IkGkVA2ZEfCLz8n5Tgudrw" defaultValue="new ArrayList&lt;>()" name="playlist" staticAttribute="true">
+      <modelElement href="Iphone.uml#_FQ-msg2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IkGkVQ2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FQ_NwA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IkGkVg2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IkGkVw2ZEfCLz8n5Tgudrw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_IkGkWA2ZEfCLz8n5Tgudrw" name="Musica">
+        <modelElement href="Iphone.uml#_FQA9YA2ZEfCLz8n5Tgudrw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_IkGkWQ2ZEfCLz8n5Tgudrw" defaultValue="null" name="musicaSelecionada">
+      <modelElement href="Iphone.uml#_FQ_00A2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IkGkWg2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FQ_00g2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IkGkWw2ZEfCLz8n5Tgudrw" label="-"/>
+      <cardinality xmi:id="_IkGkXA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <type xmi:id="_IkGkXQ2ZEfCLz8n5Tgudrw" name="Musica">
+        <modelElement href="Iphone.uml#_FQA9YA2ZEfCLz8n5Tgudrw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_IkGkXg2ZEfCLz8n5Tgudrw" name="main" staticOperation="true">
+      <modelElement href="Iphone.uml#_FQKHUA2ZEfCLz8n5Tgudrw"/>
+      <visibility xmi:id="_IkGkXw2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IkGkYA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_IkGkYQ2ZEfCLz8n5Tgudrw" name="args">
+        <modelElement href="Iphone.uml#_FQKHUQ2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_IkGkYg2ZEfCLz8n5Tgudrw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_IkGkYw2ZEfCLz8n5Tgudrw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_IkGkZA2ZEfCLz8n5Tgudrw" name="tocar">
+      <modelElement href="Iphone.uml#_FQKuYQ2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IkGkZQ2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FQKuYg2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_IkGkZg2ZEfCLz8n5Tgudrw" name="Annotations">
+        <modelElement href="Iphone.uml#_FQLVcA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IkGkZw2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IkGkaA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_IkGkaQ2ZEfCLz8n5Tgudrw" name="pausar">
+      <modelElement href="Iphone.uml#_FQLVcg2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IkGkag2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FQL8gA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_IkGkaw2ZEfCLz8n5Tgudrw" name="Annotations">
+        <modelElement href="Iphone.uml#_FQMjkA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IkGkbA2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IkGkbQ2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_IkGkbg2ZEfCLz8n5Tgudrw" name="selecionarMusica">
+      <modelElement href="Iphone.uml#_FQNKoA2ZEfCLz8n5Tgudrw"/>
+      <visibility xmi:id="_IkGkbw2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IkGkcA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_IkGkcQ2ZEfCLz8n5Tgudrw" name="faixa">
+        <modelElement href="Iphone.uml#_FQNKoQ2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_IkGkcg2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_IkGkcw2ZEfCLz8n5Tgudrw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_IlWhgA2ZEfCLz8n5Tgudrw" containments="_Im1vQA2ZEfCLz8n5Tgudrw" name="java">
+    <modelElement href="Iphone.uml#_FPgAAA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_IlWhgQ2ZEfCLz8n5Tgudrw" position="10.0,914.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_InyKcA2ZEfCLz8n5Tgudrw" containment="_Im1vQA2ZEfCLz8n5Tgudrw" name="util">
+    <modelElement href="Iphone.uml#_FPgAAQ2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_InzYkA2ZEfCLz8n5Tgudrw" position="10.0,1005.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_IoqUMA2ZEfCLz8n5Tgudrw" containments="_IrygsA2ZEfCLz8n5Tgudrw _IupncA2ZEfCLz8n5Tgudrw" classes="_ItFhMA2ZEfCLz8n5Tgudrw _IvYnQA2ZEfCLz8n5Tgudrw" name="telefone">
+    <modelElement href="Iphone.uml#_FPlfkA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_IoqUMQ2ZEfCLz8n5Tgudrw" position="114.0,485.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_ItFhMA2ZEfCLz8n5Tgudrw" containment="_IrygsA2ZEfCLz8n5Tgudrw" name="Celular" package="_IoqUMA2ZEfCLz8n5Tgudrw" generalizations="_Ityr0A2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FQO_0A2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_ItFhMQ2ZEfCLz8n5Tgudrw" position="15.0,754.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_ItFhMg2ZEfCLz8n5Tgudrw" label="+"/>
+    <operations xmi:id="_ItFhMw2ZEfCLz8n5Tgudrw" name="ligar">
+      <modelElement href="Iphone.uml#_FQQN8A2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_ItFhNA2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FQQ1AA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_ItFhNQ2ZEfCLz8n5Tgudrw" name="Annotations">
+        <modelElement href="Iphone.uml#_FQRcEA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_ItFhNg2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_ItFhNw2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ItFhOA2ZEfCLz8n5Tgudrw" name="numero">
+        <modelElement href="Iphone.uml#_FQQN8Q2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_ItFhOQ2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_ItFhOg2ZEfCLz8n5Tgudrw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ItFhOw2ZEfCLz8n5Tgudrw" name="atender">
+      <modelElement href="Iphone.uml#_FQRcEg2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_ItFhPA2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FQSqMA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_ItFhPQ2ZEfCLz8n5Tgudrw" name="Annotations">
+        <modelElement href="Iphone.uml#_FQTRQA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_ItFhPg2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_ItFhPw2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_ItFhQA2ZEfCLz8n5Tgudrw" name="atender">
+        <modelElement href="Iphone.uml#_FQRcEw2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_ItFhQQ2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_ItFhQg2ZEfCLz8n5Tgudrw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_ItFhQw2ZEfCLz8n5Tgudrw" name="iniciarCorreioDeVoz">
+      <modelElement href="Iphone.uml#_FQTRQg2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_ItFhRA2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+        <modelElement href="Iphone.uml#_FQT4UA2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_ItFhRQ2ZEfCLz8n5Tgudrw" name="Annotations">
+        <modelElement href="Iphone.uml#_FQT4UQ2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_ItFhRg2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_ItFhRw2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_IvYnQA2ZEfCLz8n5Tgudrw" containment="_IupncA2ZEfCLz8n5Tgudrw" name="Telefone" package="_IoqUMA2ZEfCLz8n5Tgudrw" subclassedBy="_Ityr0A2ZEfCLz8n5Tgudrw">
+    <modelElement href="Iphone.uml#_FQVGcA2ZEfCLz8n5Tgudrw"/>
+    <visualProperties xmi:id="_IvYnQQ2ZEfCLz8n5Tgudrw" position="197.0,595.0" size="-1.0,-1.0"/>
+    <keywords xmi:id="_IvYnQg2ZEfCLz8n5Tgudrw" keyword="sealed"/>
+    <stereotypes xmi:id="_IvYnQw2ZEfCLz8n5Tgudrw" name="LegacyStyledElement">
+      <modelElement href="Iphone.uml#_FQVtgA2ZEfCLz8n5Tgudrw"/>
+    </stereotypes>
+    <visibility xmi:id="_IvYnRA2ZEfCLz8n5Tgudrw" label="+"/>
+    <operations xmi:id="_IvYnRQ2ZEfCLz8n5Tgudrw" name="ligar">
+      <modelElement href="Iphone.uml#_FQVtgQ2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IvYnRg2ZEfCLz8n5Tgudrw" name="StyledElement">
+        <modelElement href="Iphone.uml#_FQWUkQ2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IvYnRw2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IvYnSA2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_IvYnSQ2ZEfCLz8n5Tgudrw" name="numero">
+        <modelElement href="Iphone.uml#_FQWUkA2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_IvYnSg2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_IvYnSw2ZEfCLz8n5Tgudrw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_IvYnTA2ZEfCLz8n5Tgudrw" name="atender">
+      <modelElement href="Iphone.uml#_FQWUkg2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IvYnTQ2ZEfCLz8n5Tgudrw" name="StyledElement">
+        <modelElement href="Iphone.uml#_FQW7oQ2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IvYnTg2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IvYnTw2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_IvYnUA2ZEfCLz8n5Tgudrw" name="atender">
+        <modelElement href="Iphone.uml#_FQW7oA2ZEfCLz8n5Tgudrw"/>
+        <cardinality xmi:id="_IvYnUQ2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+        <type xmi:id="_IvYnUg2ZEfCLz8n5Tgudrw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_IvYnUw2ZEfCLz8n5Tgudrw" name="iniciarCorreioDeVoz">
+      <modelElement href="Iphone.uml#_FQXisA2ZEfCLz8n5Tgudrw"/>
+      <stereotypes xmi:id="_IvYnVA2ZEfCLz8n5Tgudrw" name="StyledElement">
+        <modelElement href="Iphone.uml#_FQXisQ2ZEfCLz8n5Tgudrw"/>
+      </stereotypes>
+      <visibility xmi:id="_IvYnVQ2ZEfCLz8n5Tgudrw" label="+"/>
+      <cardinality xmi:id="_IvYnVg2ZEfCLz8n5Tgudrw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

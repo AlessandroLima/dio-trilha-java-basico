@@ -1,0 +1,31 @@
+!SESSION 2025-03-30 16:06:14.864 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/alessandro/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/alessandro/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-30 16:06:19.821
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-03-30 16:06:20.259
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (832) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-30 16:06:41.677
+!MESSAGE Logback config file: /Users/alessandro/apps/dio-trilha-java-basico/Iphone/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-03-30 16:07:06.284
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-03-30 16:07:06.296
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-03-30 16:07:06.542
+!MESSAGE [Info] Proxies are disabled
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-03-30 16:07:06.543
+!MESSAGE [Info] No proxy data found
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-03-30 16:07:12.748
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.290.0 initialized

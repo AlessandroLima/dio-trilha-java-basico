@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:UMLLabProfile="http:///schemas/UMLLabProfile/NS/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http:///schemas/UMLLabProfile/NS/0 pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile">
+  <uml:Model xmi:id="_FA3uIA2ZEfCLz8n5Tgudrw" name="Iphone">
+    <eAnnotations xmi:id="_FJxLcA2ZEfCLz8n5Tgudrw" source="http://ns.yatta.de/umllab">
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_FJxLcQ2ZEfCLz8n5Tgudrw" source="codegen">
+        <details xmi:id="_FJxLcg2ZEfCLz8n5Tgudrw" key="codegenDirectory" value="/Iphone/src"/>
+        <details xmi:id="_G81rkA2ZEfCLz8n5Tgudrw" key="AssociatedSourceCode" value="/Iphone/src/navegador/Navegador.java;2518206742/1;/Iphone/src/navegador/NavegadorInternet.java;140813100/1;/Iphone/src/reprodutores/Genero.java;2565821840/1;/Iphone/src/reprodutores/Musica.java;3777191164/1;/Iphone/src/reprodutores/Reprodutor.java;3026712283/1;/Iphone/src/reprodutores/ReprodutorMusical.java;3426473914/1;/Iphone/src/telefone/Celular.java;2291366715/1;/Iphone/src/telefone/Telefone.java;1507395986/1;"/>
+      </contents>
+    </eAnnotations>
+    <elementImport xmi:id="_FPVA4A2ZEfCLz8n5Tgudrw">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+    </elementImport>
+    <elementImport xmi:id="_FPVA4Q2ZEfCLz8n5Tgudrw">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#byte"/>
+    </elementImport>
+    <elementImport xmi:id="_FPVA4g2ZEfCLz8n5Tgudrw">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#char"/>
+    </elementImport>
+    <elementImport xmi:id="_FPVn8A2ZEfCLz8n5Tgudrw">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+    </elementImport>
+    <elementImport xmi:id="_FPVn8Q2ZEfCLz8n5Tgudrw">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+    </elementImport>
+    <elementImport xmi:id="_FPVn8g2ZEfCLz8n5Tgudrw">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+    </elementImport>
+    <elementImport xmi:id="_FPVn8w2ZEfCLz8n5Tgudrw">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+    </elementImport>
+    <elementImport xmi:id="_FPVn9A2ZEfCLz8n5Tgudrw">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#short"/>
+    </elementImport>
+    <elementImport xmi:id="_FPWPAA2ZEfCLz8n5Tgudrw">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </elementImport>
+    <packagedElement xmi:type="uml:Package" xmi:id="_FPXdIA2ZEfCLz8n5Tgudrw" name="navegador">
+      <packagedElement xmi:type="uml:Interface" xmi:id="_FP0wIA2ZEfCLz8n5Tgudrw" name="Navegador">
+        <eAnnotations xmi:id="_FP1XMA2ZEfCLz8n5Tgudrw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+          <details xmi:id="_FP1-QA2ZEfCLz8n5Tgudrw" key="sealed"/>
+        </eAnnotations>
+        <ownedOperation xmi:id="_FP3MYA2ZEfCLz8n5Tgudrw" name="exibirPagina">
+          <ownedParameter xmi:id="_FP3MYQ2ZEfCLz8n5Tgudrw" name="url">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_FP3zcQ2ZEfCLz8n5Tgudrw" name="adicionarNovaAba"/>
+        <ownedOperation xmi:id="_FP4agA2ZEfCLz8n5Tgudrw" name="atualizarPagina"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_FP5BkA2ZEfCLz8n5Tgudrw" name="NavegadorInternet" isLeaf="true">
+        <interfaceRealization xmi:id="_FQyZcA2ZEfCLz8n5Tgudrw" client="_FP5BkA2ZEfCLz8n5Tgudrw" supplier="_FP0wIA2ZEfCLz8n5Tgudrw" contract="_FP0wIA2ZEfCLz8n5Tgudrw"/>
+        <ownedOperation xmi:id="_FP6PsA2ZEfCLz8n5Tgudrw" name="exibirPagina">
+          <ownedParameter xmi:id="_FP6PsQ2ZEfCLz8n5Tgudrw" name="url">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_FP62wg2ZEfCLz8n5Tgudrw" name="adicionarNovaAba"/>
+        <ownedOperation xmi:id="_FP8E4A2ZEfCLz8n5Tgudrw" name="atualizarPagina"/>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_FPZ5YA2ZEfCLz8n5Tgudrw" name="reprodutores">
+      <packagedElement xmi:type="uml:Enumeration" xmi:id="_FP9TAA2ZEfCLz8n5Tgudrw" name="Genero">
+        <ownedLiteral xmi:id="_FP_IMQ2ZEfCLz8n5Tgudrw" name="CLASSICA"/>
+        <ownedLiteral xmi:id="_FP_IMg2ZEfCLz8n5Tgudrw" name="HIPHOP"/>
+        <ownedLiteral xmi:id="_FP_vQA2ZEfCLz8n5Tgudrw" name="JAZZ"/>
+        <ownedLiteral xmi:id="_FP_vQQ2ZEfCLz8n5Tgudrw" name="POP"/>
+        <ownedLiteral xmi:id="_FQAWUA2ZEfCLz8n5Tgudrw" name="ROCK"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_FQA9YA2ZEfCLz8n5Tgudrw" name="Musica">
+        <ownedAttribute xmi:id="_FQ9_oA2ZEfCLz8n5Tgudrw" name="titulo">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_FQ9_oQ2ZEfCLz8n5Tgudrw" name="artista">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_FQ-msA2ZEfCLz8n5Tgudrw" name="duracaoEmSegundos">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_FQ-msQ2ZEfCLz8n5Tgudrw" name="genero" type="_FP9TAA2ZEfCLz8n5Tgudrw" association="_FRDfMA2ZEfCLz8n5Tgudrw"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_FRBC8A2ZEfCLz8n5Tgudrw" name="Musica" specification="_FQ0OoA2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FRBC8Q2ZEfCLz8n5Tgudrw" name="titulo">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_FRBC8g2ZEfCLz8n5Tgudrw" name="artista">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_FRBC8w2ZEfCLz8n5Tgudrw" name="duracaoEmSegundos">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_FRBC9A2ZEfCLz8n5Tgudrw" name="genero" type="_FP9TAA2ZEfCLz8n5Tgudrw"/>
+          <ownedParameter xmi:id="_FRBC9Q2ZEfCLz8n5Tgudrw" type="_FQA9YA2ZEfCLz8n5Tgudrw" direction="return"/>
+          <language>java</language>
+          <body>this.titulo = titulo;
+     this.artista = artista;
+     this.duracaoEmSegundos = duracaoEmSegundos;
+     this.genero = genero;
+ </body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_FRBC9g2ZEfCLz8n5Tgudrw" name="toString" specification="_FQCLgA2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FRBC9w2ZEfCLz8n5Tgudrw" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>return String.format(&quot;%s - %s (%d segundos) [%s]&quot;, titulo, artista, duracaoEmSegundos, genero);
+ </body>
+        </ownedBehavior>
+        <ownedOperation xmi:id="_FQCLgA2ZEfCLz8n5Tgudrw" name="toString" method="_FRBC9g2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FQDZoA2ZEfCLz8n5Tgudrw" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_FQ0OoA2ZEfCLz8n5Tgudrw" name="Musica" method="_FRBC8A2ZEfCLz8n5Tgudrw">
+          <eAnnotations xmi:id="_FQ01sw2ZEfCLz8n5Tgudrw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+            <details xmi:id="_FQ01tA2ZEfCLz8n5Tgudrw" key="create"/>
+          </eAnnotations>
+          <ownedParameter xmi:id="_FQ0OoQ2ZEfCLz8n5Tgudrw" name="titulo">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_FQ01sA2ZEfCLz8n5Tgudrw" name="artista">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_FQ01sQ2ZEfCLz8n5Tgudrw" name="duracaoEmSegundos">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_FQ01sg2ZEfCLz8n5Tgudrw" name="genero" type="_FP9TAA2ZEfCLz8n5Tgudrw"/>
+          <ownedParameter xmi:id="_FQ01tQ2ZEfCLz8n5Tgudrw" type="_FQA9YA2ZEfCLz8n5Tgudrw" direction="return"/>
+        </ownedOperation>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Interface" xmi:id="_FQGc8A2ZEfCLz8n5Tgudrw" name="Reprodutor">
+        <eAnnotations xmi:id="_FQHEAA2ZEfCLz8n5Tgudrw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+          <details xmi:id="_FQHEAQ2ZEfCLz8n5Tgudrw" key="sealed"/>
+        </eAnnotations>
+        <ownedOperation xmi:id="_FQHrEQ2ZEfCLz8n5Tgudrw" name="tocar"/>
+        <ownedOperation xmi:id="_FQISIQ2ZEfCLz8n5Tgudrw" name="pausar"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_FQI5MA2ZEfCLz8n5Tgudrw" name="ReprodutorMusical" isLeaf="true">
+        <ownedAttribute xmi:id="_FQ-msg2ZEfCLz8n5Tgudrw" name="playlist" isStatic="true" type="_FQA9YA2ZEfCLz8n5Tgudrw" isOrdered="true" association="_FRGigA2ZEfCLz8n5Tgudrw">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FQ_NwQ2ZEfCLz8n5Tgudrw" value="*"/>
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_FQ_Nwg2ZEfCLz8n5Tgudrw" value="new ArrayList&lt;>()"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_FQ_00A2ZEfCLz8n5Tgudrw" name="musicaSelecionada" visibility="private" type="_FQA9YA2ZEfCLz8n5Tgudrw" association="_FRHwoA2ZEfCLz8n5Tgudrw">
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_FQ_00Q2ZEfCLz8n5Tgudrw" value="null"/>
+        </ownedAttribute>
+        <interfaceRealization xmi:id="_FQ3R8A2ZEfCLz8n5Tgudrw" client="_FQI5MA2ZEfCLz8n5Tgudrw" supplier="_FQGc8A2ZEfCLz8n5Tgudrw" contract="_FQGc8A2ZEfCLz8n5Tgudrw"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_FRBqAA2ZEfCLz8n5Tgudrw" name="main" specification="_FQKHUA2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FRBqAQ2ZEfCLz8n5Tgudrw" name="args">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FRBqAg2ZEfCLz8n5Tgudrw" value="*"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>playlist.add(new Musica(&quot;Bohemian Rhapsody&quot;, &quot;Queen&quot;, 354, Genero.ROCK));
+     playlist.add(new Musica(&quot;Imagine&quot;, &quot;John Lennon&quot;, 183, Genero.POP));
+     playlist.add(new Musica(&quot;So What&quot;, &quot;Miles Davis&quot;, 545, Genero.JAZZ));
+	</body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_FRBqAw2ZEfCLz8n5Tgudrw" name="tocar" specification="_FQKuYQ2ZEfCLz8n5Tgudrw">
+          <language>java</language>
+          <body>if (musicaSelecionada != null) {
+			System.out.println(&quot;Tocando: &quot; + musicaSelecionada);
+		}
+ </body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_FRBqBA2ZEfCLz8n5Tgudrw" name="pausar" specification="_FQLVcg2ZEfCLz8n5Tgudrw">
+          <language>java</language>
+          <body>if (musicaSelecionada != null) {
+			System.out.println(&quot;Pausando: &quot; + musicaSelecionada);
+		}
+
+	</body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_FRCREA2ZEfCLz8n5Tgudrw" name="selecionarMusica" specification="_FQNKoA2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FRCREQ2ZEfCLz8n5Tgudrw" name="faixa">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>if (faixa >= 0 &amp;&amp; faixa &lt; playlist.size()) {
+         musicaSelecionada = playlist.get(faixa);
+         System.out.println(&quot;Música no índice &quot; + faixa + &quot;: &quot; + musicaSelecionada);
+         
+     } else {
+         System.out.println(&quot;Índice fora dos limites da playlist.&quot;);
+     }
+	\</body>
+        </ownedBehavior>
+        <ownedOperation xmi:id="_FQKHUA2ZEfCLz8n5Tgudrw" name="main" isStatic="true" method="_FRBqAA2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FQKHUQ2ZEfCLz8n5Tgudrw" name="args">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FQKuYA2ZEfCLz8n5Tgudrw" value="*"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_FQKuYQ2ZEfCLz8n5Tgudrw" name="tocar" method="_FRBqAw2ZEfCLz8n5Tgudrw"/>
+        <ownedOperation xmi:id="_FQLVcg2ZEfCLz8n5Tgudrw" name="pausar" method="_FRBqBA2ZEfCLz8n5Tgudrw"/>
+        <ownedOperation xmi:id="_FQNKoA2ZEfCLz8n5Tgudrw" name="selecionarMusica" method="_FRCREA2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FQNKoQ2ZEfCLz8n5Tgudrw" name="faixa">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+        </ownedOperation>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_FRDfMA2ZEfCLz8n5Tgudrw" name="" memberEnd="_FQ-msQ2ZEfCLz8n5Tgudrw _FREGQA2ZEfCLz8n5Tgudrw">
+        <ownedEnd xmi:id="_FREGQA2ZEfCLz8n5Tgudrw" name="" type="_FQA9YA2ZEfCLz8n5Tgudrw" association="_FRDfMA2ZEfCLz8n5Tgudrw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_FRGigA2ZEfCLz8n5Tgudrw" name="" memberEnd="_FRGigQ2ZEfCLz8n5Tgudrw _FQ-msg2ZEfCLz8n5Tgudrw">
+        <ownedEnd xmi:id="_FRGigQ2ZEfCLz8n5Tgudrw" name="" type="_FQI5MA2ZEfCLz8n5Tgudrw" association="_FRGigA2ZEfCLz8n5Tgudrw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_FRHwoA2ZEfCLz8n5Tgudrw" name="" memberEnd="_FRHwoQ2ZEfCLz8n5Tgudrw _FQ_00A2ZEfCLz8n5Tgudrw">
+        <ownedEnd xmi:id="_FRHwoQ2ZEfCLz8n5Tgudrw" name="" type="_FQI5MA2ZEfCLz8n5Tgudrw" association="_FRHwoA2ZEfCLz8n5Tgudrw"/>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_FPgAAA2ZEfCLz8n5Tgudrw" name="java">
+      <packagedElement xmi:type="uml:Package" xmi:id="_FPgAAQ2ZEfCLz8n5Tgudrw" name="util">
+        <packagedElement xmi:type="uml:Class" xmi:id="_FQ3R8Q2ZEfCLz8n5Tgudrw" name="ArrayList"/>
+        <packagedElement xmi:type="uml:Interface" xmi:id="_FQ35AQ2ZEfCLz8n5Tgudrw" name="List"/>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_FPlfkA2ZEfCLz8n5Tgudrw" name="telefone">
+      <packagedElement xmi:type="uml:Class" xmi:id="_FQO_0A2ZEfCLz8n5Tgudrw" name="Celular" isLeaf="true">
+        <interfaceRealization xmi:id="_FQ6VQA2ZEfCLz8n5Tgudrw" client="_FQO_0A2ZEfCLz8n5Tgudrw" supplier="_FQVGcA2ZEfCLz8n5Tgudrw" contract="_FQVGcA2ZEfCLz8n5Tgudrw"/>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_FRCREg2ZEfCLz8n5Tgudrw" name="ligar" specification="_FQQN8A2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FRCREw2ZEfCLz8n5Tgudrw" name="numero">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>System.out.println(&quot;Efetuando ligação telefônica para o número: &quot; +numero);
+
+	</body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_FRCRFA2ZEfCLz8n5Tgudrw" name="atender" specification="_FQRcEg2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FRCRFQ2ZEfCLz8n5Tgudrw" name="atender">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>if (atender == true) {
+			System.out.println(&quot;Atendendo a ligação telefônica!&quot;);
+		}else { 
+			System.out.println(&quot;Rejeitando ou não atendendo a ligação telefônica!&quot;);
+		}
+		
+	</body>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_FRC4IA2ZEfCLz8n5Tgudrw" name="iniciarCorreioDeVoz" specification="_FQTRQg2ZEfCLz8n5Tgudrw">
+          <language>java</language>
+          <body>System.out.println(&quot;Gravando e enviando um correio de voz a um destinatário!&quot;);
+		
+	</body>
+        </ownedBehavior>
+        <ownedOperation xmi:id="_FQQN8A2ZEfCLz8n5Tgudrw" name="ligar" method="_FRCREg2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FQQN8Q2ZEfCLz8n5Tgudrw" name="numero">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_FQRcEg2ZEfCLz8n5Tgudrw" name="atender" method="_FRCRFA2ZEfCLz8n5Tgudrw">
+          <ownedParameter xmi:id="_FQRcEw2ZEfCLz8n5Tgudrw" name="atender">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_FQTRQg2ZEfCLz8n5Tgudrw" name="iniciarCorreioDeVoz" method="_FRC4IA2ZEfCLz8n5Tgudrw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Interface" xmi:id="_FQVGcA2ZEfCLz8n5Tgudrw" name="Telefone">
+        <eAnnotations xmi:id="_FQVGcQ2ZEfCLz8n5Tgudrw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+          <details xmi:id="_FQVGcg2ZEfCLz8n5Tgudrw" key="sealed"/>
+        </eAnnotations>
+        <ownedOperation xmi:id="_FQVtgQ2ZEfCLz8n5Tgudrw" name="ligar">
+          <ownedParameter xmi:id="_FQWUkA2ZEfCLz8n5Tgudrw" name="numero">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_FQWUkg2ZEfCLz8n5Tgudrw" name="atender">
+          <ownedParameter xmi:id="_FQW7oA2ZEfCLz8n5Tgudrw" name="atender">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_FQXisA2ZEfCLz8n5Tgudrw" name="iniciarCorreioDeVoz"/>
+      </packagedElement>
+    </packagedElement>
+    <profileApplication xmi:id="_FJznsA2ZEfCLz8n5Tgudrw">
+      <eAnnotations xmi:id="_FJznsQ2ZEfCLz8n5Tgudrw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile"/>
+    </profileApplication>
+  </uml:Model>
+  <UMLLabProfile:TargetLanguage xmi:id="_FJ1c4A2ZEfCLz8n5Tgudrw" base_Package="_FA3uIA2ZEfCLz8n5Tgudrw">
+    <languageName>java</languageName>
+  </UMLLabProfile:TargetLanguage>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FP2lUA2ZEfCLz8n5Tgudrw" base_Element="_FP0wIA2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:StyledElement xmi:id="_FP3zcA2ZEfCLz8n5Tgudrw" base_Element="_FP3MYA2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:StyledElement xmi:id="_FP3zcg2ZEfCLz8n5Tgudrw" base_Element="_FP3zcQ2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:StyledElement xmi:id="_FP4agQ2ZEfCLz8n5Tgudrw" base_Element="_FP4agA2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FP6Psg2ZEfCLz8n5Tgudrw" base_Element="_FP6PsA2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Annotations xmi:id="_FP62wA2ZEfCLz8n5Tgudrw" base_Element="_FP6PsA2ZEfCLz8n5Tgudrw">
+    <annotations xmi:id="_FP62wQ2ZEfCLz8n5Tgudrw" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FP7d0A2ZEfCLz8n5Tgudrw" base_Element="_FP62wg2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Annotations xmi:id="_FP7d0Q2ZEfCLz8n5Tgudrw" base_Element="_FP62wg2ZEfCLz8n5Tgudrw">
+    <annotations xmi:id="_FP7d0g2ZEfCLz8n5Tgudrw" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FP8E4Q2ZEfCLz8n5Tgudrw" base_Element="_FP8E4A2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Annotations xmi:id="_FP8r8A2ZEfCLz8n5Tgudrw" base_Element="_FP8E4A2ZEfCLz8n5Tgudrw">
+    <annotations xmi:id="_FP8r8Q2ZEfCLz8n5Tgudrw" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FP_IMA2ZEfCLz8n5Tgudrw" base_Element="_FP9TAA2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FQDZoQ2ZEfCLz8n5Tgudrw" base_Element="_FQCLgA2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Annotations xmi:id="_FQEAsA2ZEfCLz8n5Tgudrw" base_Element="_FQCLgA2ZEfCLz8n5Tgudrw">
+    <annotations xmi:id="_FQEAsQ2ZEfCLz8n5Tgudrw" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FQHrEA2ZEfCLz8n5Tgudrw" base_Element="_FQGc8A2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:StyledElement xmi:id="_FQISIA2ZEfCLz8n5Tgudrw" base_Element="_FQHrEQ2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:StyledElement xmi:id="_FQISIg2ZEfCLz8n5Tgudrw" base_Element="_FQISIQ2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FQKuYg2ZEfCLz8n5Tgudrw" base_Element="_FQKuYQ2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Annotations xmi:id="_FQLVcA2ZEfCLz8n5Tgudrw" base_Element="_FQKuYQ2ZEfCLz8n5Tgudrw">
+    <annotations xmi:id="_FQLVcQ2ZEfCLz8n5Tgudrw" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FQL8gA2ZEfCLz8n5Tgudrw" base_Element="_FQLVcg2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Annotations xmi:id="_FQMjkA2ZEfCLz8n5Tgudrw" base_Element="_FQLVcg2ZEfCLz8n5Tgudrw">
+    <annotations xmi:id="_FQMjkQ2ZEfCLz8n5Tgudrw" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FQQ1AA2ZEfCLz8n5Tgudrw" base_Element="_FQQN8A2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Annotations xmi:id="_FQRcEA2ZEfCLz8n5Tgudrw" base_Element="_FQQN8A2ZEfCLz8n5Tgudrw">
+    <annotations xmi:id="_FQRcEQ2ZEfCLz8n5Tgudrw" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FQSqMA2ZEfCLz8n5Tgudrw" base_Element="_FQRcEg2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Annotations xmi:id="_FQTRQA2ZEfCLz8n5Tgudrw" base_Element="_FQRcEg2ZEfCLz8n5Tgudrw">
+    <annotations xmi:id="_FQTRQQ2ZEfCLz8n5Tgudrw" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FQT4UA2ZEfCLz8n5Tgudrw" base_Element="_FQTRQg2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Annotations xmi:id="_FQT4UQ2ZEfCLz8n5Tgudrw" base_Element="_FQTRQg2ZEfCLz8n5Tgudrw">
+    <annotations xmi:id="_FQT4Ug2ZEfCLz8n5Tgudrw" name="Override"/>
+  </UMLLabProfile:Annotations>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FQVtgA2ZEfCLz8n5Tgudrw" base_Element="_FQVGcA2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:StyledElement xmi:id="_FQWUkQ2ZEfCLz8n5Tgudrw" base_Element="_FQVtgQ2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:StyledElement xmi:id="_FQW7oQ2ZEfCLz8n5Tgudrw" base_Element="_FQWUkg2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:StyledElement xmi:id="_FQXisQ2ZEfCLz8n5Tgudrw" base_Element="_FQXisA2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Reference xmi:id="_FQ35AA2ZEfCLz8n5Tgudrw" base_Element="_FQ3R8Q2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Reference xmi:id="_FQ4gEA2ZEfCLz8n5Tgudrw" base_Element="_FQ35AQ2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FQ_NwA2ZEfCLz8n5Tgudrw" base_Element="_FQ-msg2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:LegacyStyledElement xmi:id="_FQ_00g2ZEfCLz8n5Tgudrw" base_Element="_FQ_00A2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Reference xmi:id="_FRHJkA2ZEfCLz8n5Tgudrw" base_Element="_FRGigA2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Reference xmi:id="_FRIXsA2ZEfCLz8n5Tgudrw" base_Element="_FRHwoA2ZEfCLz8n5Tgudrw"/>
+  <UMLLabProfile:Patch xmi:id="_HAI3MA2ZEfCLz8n5Tgudrw" base_Element="_FP9TAA2ZEfCLz8n5Tgudrw" patchText="@@ -38,10 +38,8 @@&#xA; nero&#xA;-()&#xA;  %7B%0A%09&#xA;" conflicting="false"/>
+  <UMLLabProfile:Patch xmi:id="_HAKFUA2ZEfCLz8n5Tgudrw" base_Element="_FQI5MA2ZEfCLz8n5Tgudrw" patchText="@@ -128,22 +128,26 @@&#xA; dutor %7B%0A&#xA;-public&#xA;+%09%0A%09private&#xA;  static &#xA;" conflicting="false"/>
+</xmi:XMI>
