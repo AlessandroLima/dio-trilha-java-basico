@@ -38,6 +38,6 @@ public final class ReprodutorMusical implements Reprodutor {
         } else {
             System.out.println("Índice fora dos limites da playlist.");
         }
-	\}
+	}
 
 }
