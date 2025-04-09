@@ -1,28 +1,58 @@
 package banco;
 
-public class ContaBancaria {
+public non-sealed class ContaBancaria implements Conta {
 	
-	private Agencia agencia;
-	private int numero;
-	private float saldo;
+	protected int AGENCIA;
+	private static int SEQUENCIAL = 1;
+	protected double saldo = 0;
 
-	public float getSaldo() {
+	public double getSaldo() {
 		return saldo;
 	}
 
-	public Agencia getAgencia() {
-		return agencia;
+	public int getAgencia() {
+		return AGENCIA;
 	}
 
 	public int getNumero() {
-		return numero;
+		return SEQUENCIAL;
 	}
 
-	public ContaBancaria(Agencia agencia, int numero, float saldo) {
+	public ContaBancaria() {
 		super();
-		this.agencia = agencia;
-		this.numero = numero;
-		this.saldo = saldo;
+		this.AGENCIA = Agencia.getInstance().getNumero();
+		ContaBancaria.SEQUENCIAL = SEQUENCIAL++;
 	}
+
+	@Override
+	public double sacar(double valor) {
+		return saldo - valor;
+		
+	}
+
+	@Override
+	public double depositar(double valor) {
+		return saldo + valor;
+		
+	}
+
+	@Override
+	public double transferir(double valor, Conta conta) {
+		if (saldo > valor) {
+			saldo = saldo - valor;
+		}
+		
+		return saldo;
+		
+	}
+
+	@Override
+	public void receberTransferencia(double valor, Conta conta) {
+		conta.depositar(valor);
+		
+	}
+
+	
+
 
 }

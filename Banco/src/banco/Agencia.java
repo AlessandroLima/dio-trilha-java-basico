@@ -3,24 +3,30 @@ package banco;
 
 public class Agencia {
 	
-	private Banco banco; 
-	private int numero;
+	private static volatile Agencia instancia;
+	private static final Banco BANCO = Banco.getInstance(); 
+	private static final int NUMERO = 1;
 	
 	
-	public Banco getBanco() {
-		return banco;
-	}
+	private Agencia() {}
 	
-	public void setBanco(Banco banco) {
-		this.banco = banco;
-	}
-	
-	public int getNumero() {
-		return numero;
-	}
-	
-	public void setNumero(int numero) {
-		this.numero = numero;
-	}
+	public static Agencia getInstance() {
+        if (instancia == null) {
+            synchronized (Agencia.class) {
+                if (instancia == null) {
+                    instancia = new Agencia();
+                }
+            }
+        }
+        return instancia;
+    }
+
+    public Banco getBanco() {
+        return BANCO;
+    }
+
+    public int getNumero() {
+        return NUMERO;
+    }
 	
 }

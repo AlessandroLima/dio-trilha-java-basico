@@ -1742,3 +1742,15 @@ java.lang.IllegalArgumentException: Index out of bounds
 
 !ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-08 14:54:24.331
 !MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/alessandro/apps/dio-trilha-java-basico/Banco/src/banco/Conta.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-09 09:01:37.664
+!MESSAGE [Info] Document is null for editor: Agencia.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-09 09:01:37.666
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/alessandro/apps/dio-trilha-java-basico/Banco/src/banco/Agencia.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-09 09:01:41.952
+!MESSAGE [Info] Document is null for editor: Cliente.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-09 09:01:41.953
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///Users/alessandro/apps/dio-trilha-java-basico/Banco/src/banco/Cliente.java

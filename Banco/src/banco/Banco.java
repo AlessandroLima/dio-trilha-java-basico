@@ -1,12 +1,28 @@
 package banco;
 
 public class Banco {
-	
-	String nome;
+    private static volatile Banco instancia;
+    private static final String NOME = "Banco Central";
+    private static final int NUMERO = 101;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+    private Banco() {} // Construtor privado
 
-	}
+    public static Banco getInstance() {
+        if (instancia == null) {
+            synchronized (Banco.class) {
+                if (instancia == null) {
+                    instancia = new Banco();
+                }
+            }
+        }
+        return instancia;
+    }
 
+    public String getNome() {
+        return NOME;
+    }
+
+    public int getNumero() {
+        return NUMERO;
+    }
 }
