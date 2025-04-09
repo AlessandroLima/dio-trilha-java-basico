@@ -6,14 +6,15 @@ import java.util.List;
 public  class ContaBancaria {
 	
 	protected int AGENCIA;
-	private static int NUMERO = 1;
+	static int NUMERO = 1;
+	private int numeroConta;
 	protected double saldo = 0;
 	private List<String> extrato;
 	
 	public ContaBancaria() {
 		this.AGENCIA = Agencia.getInstance().getNumero();
 		this.extrato = new ArrayList<>();
-		ContaBancaria.NUMERO = NUMERO++;
+		this.numeroConta = NUMERO++;
 	}
 
 	public double getSaldo() {
@@ -25,7 +26,7 @@ public  class ContaBancaria {
 	}
 
 	public String getNumero() {
-		return String.valueOf(NUMERO) ;
+		return String.valueOf(numeroConta);
 	}
 
 	public double sacar(double valor) {
