@@ -8,8 +8,8 @@ public  class ContaBancaria {
 	protected int AGENCIA;
 	private static int NUMERO = 1;
 	protected double saldo = 0;
-	private List<String> extrato; 
-
+	private List<String> extrato;
+	
 	public ContaBancaria() {
 		this.AGENCIA = Agencia.getInstance().getNumero();
 		this.extrato = new ArrayList<>();
@@ -60,7 +60,7 @@ public  class ContaBancaria {
 		extrato.add("Recebido R$ " + valor + " de transferência da conta " + conta.getNumero() + ".");
 	}
 
-	// Novo método para exibir o extrato
+	
 	public void extrato() {
 		System.out.println("=== EXTRATO DA CONTA ===");
 		for (String transacao : extrato) {

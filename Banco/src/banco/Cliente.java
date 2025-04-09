@@ -3,10 +3,16 @@ package banco;
 public class Cliente {
 	
 	String nome;
+	String cpf;
+	ContaBancaria contaBancaria;
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public Cliente(String nome, String cpf, ContaBancaria contaBancaria) {
+		super();
+		this.nome = nome;
+		this.cpf = cpf;
+		this.contaBancaria = contaBancaria;
 	}
+	
+	
 
 }
