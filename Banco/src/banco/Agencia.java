@@ -44,7 +44,7 @@ public class Agencia {
             System.out.println("Nenhum cliente cadastrado.");
         } else {
             for (Cliente cliente : clientes) {
-                System.out.println("Nome: " + cliente.nome + ", CPF: " + cliente.cpf + ", Agência: " + cliente.contaBancaria.getAgencia() + ", Conta: " + cliente.contaBancaria.getNumero() + ", Tipo: " + cliente.contaBancaria.getClass().getSimpleName());
+                System.out.println("Nome: " + cliente.nome + ", CPF: " + cliente.cpf + ", Agência: " + cliente.contaBancaria.getAgencia() + ", Conta: " + cliente.contaBancaria.getNumero() + ", Tipo: " + cliente.contaBancaria.getClass().getSimpleName()+ ", saldo: R$ " + cliente.contaBancaria.getSaldo());	
             }
         }
         System.out.println("===============================");
