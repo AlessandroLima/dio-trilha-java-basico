@@ -2699,3 +2699,1634 @@ java.lang.Error: SWT Resource was not properly disposed
 
 !ENTRY org.eclipse.lsp4e 1 0 2025-04-09 21:08:50.479
 !MESSAGE [Info]	[streamChoices] request done: headerRequestId: [0c3f39d5-d060-4e66-b498-1a8a53991491] model deployment ID: []
+!SESSION 2025-04-12 11:44:10.444 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/alessandro/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/alessandro/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-12 11:44:19.384
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-04-12 11:44:19.737
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (832) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-04-12 11:44:25.300
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-12 11:44:25.991
+!MESSAGE Logback config file: /Users/alessandro/apps/dio-trilha-java-basico/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-12 11:45:11.871
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-12 11:45:11.972
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-12 11:45:12.195
+!MESSAGE [Info] Proxies are disabled
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-12 11:45:12.195
+!MESSAGE [Info] No proxy data found
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:45:16.616
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.290.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:45:17.367
+!MESSAGE [Info]	[certificates] Removed 13 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:46:49.706
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 806.4645900000032 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:46:49.707
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:46:49.708
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [6a833cad-80b2-47f3-8b20-a86c6be89b45] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:48:27.319
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.290.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:48:27.790
+!MESSAGE [Info]	[certificates] Removed 13 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:12.766
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 1096.3468130000401 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:12.775
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:12.775
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [f3b780f9-e873-4131-ad24-8f3bd20c76ad] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:13.607
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 637.9441360000055 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:13.613
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:13.613
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [1be23764-7a91-4dfc-afee-27bab0c29139] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:22.771
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 272.1509879999794 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:22.779
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:22.781
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [5b25f9e3-9450-4adf-913b-439bfc85624a] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:24.850
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:24.851
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 264.101726999972 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:24.852
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [7eaf13d1-90a6-4a51-a997-0ea8cb66767c] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:30.776
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 288.3138930000132 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:30.777
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:30.778
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [302aae02-ce4b-46fb-a42a-cb87eca5552b] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:31.422
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 299.6849439999787 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:31.432
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:31.433
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [8aeabd3d-2168-47c0-93fa-0c5f7264ca14] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:35.553
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 320.4952959999209 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:35.554
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [563e7b53-0996-47eb-8e4b-b84212718ce9] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:35.554
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:36.266
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 304.9740510000847 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:36.266
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 11:57:36.266
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [389bec9a-e553-43c0-9ef0-918bafa39d20] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:13.633
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 646.8001640000148 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:13.636
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:13.636
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [df0e2bc2-83be-4ce6-a2e1-23a2f68d1323] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:14.522
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 319.15681899990886 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:14.523
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [1bc520bf-b18f-4b56-81d4-910bb5519f4d] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:14.523
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:14.923
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 300.1159210000187 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:14.924
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:14.924
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [dcf50958-8b39-4e20-a44e-ab33b7379a55] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:18.847
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 268.29120199999306 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:18.849
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:18.852
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [126f3aed-fe4a-4c2a-b17a-5dbc7c56c1a2] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:22.785
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 277.2545049999608 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:22.789
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:22.790
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [6ee67a79-af46-49d9-8864-27a48524a4f3] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:24.162
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 380.9878439999884 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:24.168
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:24.169
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [b48e8eed-14e0-4211-ba40-b5a1c9189b4a] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:42.571
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 363.3493330000201 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:42.579
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [f6465b4d-e4ba-426f-9696-09b5072c9cc8] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:02:42.580
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:31:51.365
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 710.58574100025 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:31:51.366
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:31:51.367
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [8b2c3bdc-6530-4962-a1a0-700370170c6e] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:31:52.709
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 283.6562560000457 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:31:52.714
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:31:52.716
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [4d64a9ab-13c9-459f-be2c-5ec54e7e5950] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:31:56.213
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:31:56.214
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [c7ffa168-f3a6-4a14-886d-552f03a202b7] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:31:56.215
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 291.3658230002038 ms
+!SESSION 2025-04-12 12:45:16.184 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/alessandro/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/alessandro/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-12 12:45:49.064
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-04-12 12:45:51.338
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (832) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-04-12 12:48:01.534
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-12 12:48:02.518
+!MESSAGE Logback config file: /Users/alessandro/apps/dio-trilha-java-basico/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-12 12:48:56.617
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-12 12:48:56.750
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-12 12:48:57.018
+!MESSAGE [Info] Proxies are disabled
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-12 12:48:57.018
+!MESSAGE [Info] No proxy data found
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:49:02.149
+!MESSAGE [Info]	[certificates] Removed 13 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:49:02.151
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.290.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:51:34.655
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 1552.050779000012 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:51:34.809
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [22d0497d-cdac-4757-8467-a27b8f10cd56] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:51:34.810
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:51:35.883
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 869.2051280000014 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:51:35.884
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:51:35.885
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [c14d8898-a35a-4c29-97f9-be86a104a5c0] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:51:36.205
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 299.2997280000127 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:51:36.205
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [0f6e3b2d-0911-4f2d-a1c6-2e18f4ad46d4] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:51:36.206
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:01.059
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 283.1799929999979 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:01.060
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [432f678c-489c-4497-8dbc-618c0bb80308] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:01.060
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:02.093
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [4a6887fc-db49-4206-8a2b-66833ce4b988] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:02.094
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 527.4831789999735 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:02.094
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:08.134
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 367.2724600000074 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:08.135
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:08.135
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [d8a9a9ac-f48b-4849-a86d-443fbacdb197] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:10.468
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 321.94126099999994 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:10.468
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:10.468
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [3e148207-ec41-42a2-8758-10ff622a5ac6] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:23.577
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 281.7865180000081 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:23.577
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:23.578
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [7721a509-a166-4318-a4e0-51dd43859069] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:24.621
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 344.0776740000001 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:24.622
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:24.623
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [09b130fc-347b-4458-b28e-330bae01d94a] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:26.821
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:26.821
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [d51ec01d-fba6-46da-abc1-5c9e04e71825] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:26.822
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 267.43951200001175 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:27.691
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:27.691
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [24c84bc4-788c-41a0-8029-f939d54c073a] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:27.692
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 359.080220999982 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:35.106
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 290.4140980000084 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:35.107
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [5e85ff7b-fa56-4ac8-9b23-b8e66014566c] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:35.107
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:35.479
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 345.7924289999937 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:35.480
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [6a990969-c815-44ad-8398-cfb17a33168e] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:35.482
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:35.812
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 306.9385609999881 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:35.813
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:35.815
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [20aae1ae-13de-42cb-a27f-8a143b16e86b] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:37.707
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 304.1075420000125 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:37.708
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:37.708
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [3940373b-7e26-42ba-b987-820a973bc51f] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:38.047
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 315.804151999997 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:38.048
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:38.048
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [53279714-f747-4482-870f-bf958dc6b064] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:38.506
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 308.4022929999919 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:38.507
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [b027e85f-861e-4c12-9f0b-3701608789d8] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:38.507
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:47.512
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 298.789397000015 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:47.513
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [d6ae20fb-71ae-4c19-96dc-151029b54e23] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:52:47.513
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:53:09.731
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 262.48027299999376 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:53:09.731
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:53:09.732
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [ddaceb41-b24a-4c35-9bef-920f1dab6733] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:10.518
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 1460.5759460000554 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:10.768
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:10.769
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [e195f4aa-4ccf-4212-947c-16f4710e5026] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:11.136
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 342.2011080000084 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:11.137
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [dcdef0a8-5220-4c86-b0bb-236c5efefdde] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:11.138
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:12.216
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 294.65351900004316 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:12.217
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [91425e79-5fcb-43b4-9e88-5c2a8f174009] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:12.217
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:17.784
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 322.2939710000064 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:17.784
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:17.784
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [0089d06a-5d10-400e-bb95-2106f55fab4a] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:57.489
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 389.08629700005986 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:57.492
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:58:57.494
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [289e498b-0220-4a35-9c7a-f2f986d632cc] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:59:20.125
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 287.8866530000232 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:59:20.131
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [51e183d9-a8dd-4ecd-96ae-1a18a7efbaec] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:59:20.132
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:59:20.521
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 279.3280899999663 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:59:20.522
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:59:20.523
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [efa4e300-cb1c-4dd1-9f93-2b8678431a16] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:59:22.466
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 283.77960200002417 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:59:22.467
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [e0f4f15f-ac85-43c3-a343-ed81991d82b4] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 12:59:22.469
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 13:17:13.992
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 711.8116309999023 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 13:17:13.993
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 13:17:13.994
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [8ef3b9fc-a501-4730-a587-d1c39c94857c] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 13:17:14.918
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 899.6413760001305 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 13:17:14.918
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 13:17:14.919
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [d07a3bd7-7b54-4244-bc97-3cd430b353ab] model deployment ID: []
+
+!ENTRY org.eclipse.ui 4 0 2025-04-12 13:17:24.274
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 10
+	at org.eclipse.swt.custom.StyledTextRenderer.getLineVerticalIndent(StyledTextRenderer.java:835)
+	at org.eclipse.swt.custom.StyledTextRenderer.getLineHeight(StyledTextRenderer.java:763)
+	at org.eclipse.swt.custom.StyledTextRenderer.getLineHeight(StyledTextRenderer.java:749)
+	at org.eclipse.swt.custom.StyledText.getLineIndex(StyledText.java:3920)
+	at org.eclipse.jface.text.JFaceTextUtil.getBottomIndex(JFaceTextUtil.java:100)
+	at org.eclipse.jface.text.TextViewer.getBottomIndex(TextViewer.java:3136)
+	at com.microsoft.copilot.eclipse.ui.utils.SwtUtils.lambda$3(SwtUtils.java:180)
+	at com.microsoft.copilot.eclipse.ui.utils.SwtUtils.invokeOnDisplayThread(SwtUtils.java:70)
+	at com.microsoft.copilot.eclipse.ui.utils.SwtUtils.isWidgetOffsetOutOfTextEditorVisibleRange(SwtUtils.java:173)
+	at com.microsoft.copilot.eclipse.ui.utils.SwtUtils.redrawBlockLineAtModelOffset(SwtUtils.java:141)
+	at com.microsoft.copilot.eclipse.ui.completion.CompletionManager.caretMoved(CompletionManager.java:299)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:101)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.custom.StyledText.setCaretOffsets(StyledText.java:8603)
+	at org.eclipse.swt.custom.StyledText.reset(StyledText.java:7791)
+	at org.eclipse.swt.custom.StyledText.handleTextSet(StyledText.java:6157)
+	at org.eclipse.swt.custom.StyledText$5.textSet(StyledText.java:5410)
+	at org.eclipse.jface.text.DefaultDocumentAdapter.fireTextSet(DefaultDocumentAdapter.java:332)
+	at org.eclipse.jface.text.DefaultDocumentAdapter.resumeForwardingDocumentChanges(DefaultDocumentAdapter.java:371)
+	at org.eclipse.jface.text.TextViewer.enabledRedrawing(TextViewer.java:5025)
+	at org.eclipse.jface.text.TextViewer.enabledRedrawing(TextViewer.java:5012)
+	at org.eclipse.jface.text.TextViewer.setRedraw(TextViewer.java:5094)
+	at org.eclipse.jface.text.TextViewer.setRedraw(TextViewer.java:5068)
+	at org.eclipse.jface.text.TextViewer$RewriteTarget.setRedraw(TextViewer.java:1017)
+	at org.eclipse.jface.text.TextViewer$DocumentRewriteSessionListener.documentRewriteSessionChanged(TextViewer.java:1423)
+	at org.eclipse.jface.text.AbstractDocument.fireRewriteSessionChanged(AbstractDocument.java:1423)
+	at org.eclipse.jface.text.AbstractDocument.stopRewriteSession(AbstractDocument.java:1504)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.stopRewriteSession(SynchronizableDocument.java:203)
+	at org.eclipse.jface.text.RewriteSessionEditProcessor.performEdits(RewriteSessionEditProcessor.java:101)
+	at org.eclipse.jdt.internal.ui.javaeditor.DocumentAdapter$ApplyTextEditCommand.run(DocumentAdapter.java:202)
+	at org.eclipse.jdt.internal.ui.javaeditor.DocumentAdapter.run(DocumentAdapter.java:135)
+	at org.eclipse.jdt.internal.ui.javaeditor.DocumentAdapter$ApplyTextEditCommand.applyTextEdit(DocumentAdapter.java:212)
+	at org.eclipse.jdt.internal.ui.javaeditor.DocumentAdapter.applyTextEdit(DocumentAdapter.java:640)
+	at org.eclipse.jdt.internal.core.CompilationUnit.applyTextEdit(CompilationUnit.java:93)
+	at org.eclipse.jdt.internal.corext.util.JavaModelUtil.applyEdit(JavaModelUtil.java:1255)
+	at org.eclipse.jdt.internal.corext.codemanipulation.AddCustomConstructorOperation.run(AddCustomConstructorOperation.java:196)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:751)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2457)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2482)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:6112)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:108)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:434)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:354)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2335)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2332)
+	at org.eclipse.ui.internal.progress.ProgressManager$RunnableWithStatus.run(ProgressManager.java:1105)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.progress.ProgressManager.lambda$27(ProgressManager.java:985)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:5264)
+	at org.eclipse.ui.internal.progress.ProgressManager.runInUI(ProgressManager.java:985)
+	at org.eclipse.jdt.ui.actions.GenerateNewConstructorUsingFieldsAction.run(GenerateNewConstructorUsingFieldsAction.java:428)
+	at org.eclipse.jdt.ui.actions.GenerateNewConstructorUsingFieldsAction.run(GenerateNewConstructorUsingFieldsAction.java:292)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:278)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:670)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:607)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1492)
+
+!ENTRY org.eclipse.ui 4 0 2025-04-12 15:36:41.601
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IFile.getLocation()" because "file" is null
+	at com.microsoft.copilot.eclipse.core.utils.FileUtils.getFileUri(FileUtils.java:24)
+	at com.microsoft.copilot.eclipse.core.completion.CompletionProvider.triggerCompletion(CompletionProvider.java:68)
+	at com.microsoft.copilot.eclipse.ui.completion.CompletionManager.triggerCompletion(CompletionManager.java:465)
+	at com.microsoft.copilot.eclipse.ui.completion.CompletionManager.caretMoved(CompletionManager.java:288)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:101)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.custom.StyledText.setCaretOffsets(StyledText.java:8603)
+	at org.eclipse.swt.custom.StyledText.reset(StyledText.java:7791)
+	at org.eclipse.swt.custom.StyledText.setContent(StyledText.java:8679)
+	at org.eclipse.jface.text.TextViewer.initializeWidgetContents(TextViewer.java:3460)
+	at org.eclipse.jface.text.TextViewer.setVisibleDocument(TextViewer.java:3502)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.setVisibleDocument(ProjectionViewer.java:700)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaSourceViewer.setVisibleDocument(JavaSourceViewer.java:646)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.executeReplaceVisibleDocument(ProjectionViewer.java:755)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.replaceVisibleDocument(ProjectionViewer.java:743)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.reinitializeProjection(ProjectionViewer.java:1221)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.catchupWithProjectionAnnotationModel(ProjectionViewer.java:937)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.processCatchupRequest(ProjectionViewer.java:857)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer$AnnotationModelListener.processModelChanged(ProjectionViewer.java:122)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer$AnnotationModelListener.modelChanged(ProjectionViewer.java:114)
+	at org.eclipse.jface.text.source.AnnotationModel.fireModelChanged(AnnotationModel.java:592)
+	at org.eclipse.jface.text.source.AnnotationModel$InternalModelListener.modelChanged(AnnotationModel.java:256)
+	at org.eclipse.jface.text.source.AnnotationModel.fireModelChanged(AnnotationModel.java:592)
+	at org.eclipse.jface.text.source.AnnotationModel.fireModelChanged(AnnotationModel.java:558)
+	at org.eclipse.jface.text.source.projection.ProjectionAnnotationModel.modifyAnnotations(ProjectionAnnotationModel.java:192)
+	at org.eclipse.jdt.ui.text.folding.DefaultJavaFoldingStructureProvider.update(DefaultJavaFoldingStructureProvider.java:1270)
+	at org.eclipse.jdt.ui.text.folding.DefaultJavaFoldingStructureProvider.initialize(DefaultJavaFoldingStructureProvider.java:1148)
+	at org.eclipse.jdt.ui.text.folding.DefaultJavaFoldingStructureProvider.handleProjectionEnabled(DefaultJavaFoldingStructureProvider.java:1118)
+	at org.eclipse.jdt.ui.text.folding.DefaultJavaFoldingStructureProvider$ProjectionListener.projectionEnabled(DefaultJavaFoldingStructureProvider.java:978)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.fireProjectionEnabled(ProjectionViewer.java:475)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.enableProjection(ProjectionViewer.java:523)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaSourceViewer.setVisibleDocument(JavaSourceViewer.java:639)
+	at org.eclipse.jface.text.TextViewer.setDocument(TextViewer.java:2891)
+	at org.eclipse.jface.text.source.SourceViewer.setDocument(SourceViewer.java:683)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.setDocument(ProjectionViewer.java:368)
+	at org.eclipse.jface.text.source.SourceViewer.setDocument(SourceViewer.java:633)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.initializeSourceViewer(AbstractTextEditor.java:3990)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4193)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1526)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.internalDoSetInput(JavaEditor.java:2567)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.doSetInput(JavaEditor.java:2554)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSetInput(CompilationUnitEditor.java:1410)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInputWithNotify(AbstractTextEditor.java:4249)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInput(AbstractTextEditor.java:4269)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener$1.run(AbstractTextEditor.java:537)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.execute(AbstractTextEditor.java:598)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.elementMoved(AbstractTextEditor.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider$FileBufferListener.underlyingFileMoved(TextFileDocumentProvider.java:335)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager$6.run(TextFileBufferManager.java:710)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.fireUnderlyingFileMoved(TextFileBufferManager.java:707)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.handleFileMoved(ResourceFileBuffer.java:422)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer$3.execute(ResourceFileBuffer.java:163)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$SafeFileChange.run(ResourceFileBuffer.java:86)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:168)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:370)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:325)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:636)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:148)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMoveWizard$MoveInputPage.performFinish(ReorgMoveWizard.java:123)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:451)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:468)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:83)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:286)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.lambda$0(RefactoringWizardOpenOperation.java:190)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:209)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:126)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RefactoringStarter.activate(RefactoringStarter.java:41)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMoveStarter.run(ReorgMoveStarter.java:83)
+	at org.eclipse.jdt.internal.ui.packageview.SelectionTransferDropAdapter.handleDropMove(SelectionTransferDropAdapter.java:268)
+	at org.eclipse.jdt.internal.ui.packageview.SelectionTransferDropAdapter.performDrop(SelectionTransferDropAdapter.java:205)
+	at org.eclipse.jdt.internal.ui.dnd.JdtViewerDropAdapter.drop(JdtViewerDropAdapter.java:251)
+	at org.eclipse.jface.util.DelegatingDropAdapter$3.run(DelegatingDropAdapter.java:227)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.util.DelegatingDropAdapter.drop(DelegatingDropAdapter.java:224)
+	at org.eclipse.swt.dnd.DNDListener.handleEvent(DNDListener.java:104)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.dnd.DropTarget.drop(DropTarget.java:751)
+	at org.eclipse.swt.dnd.DropTarget.outlineView_acceptDrop_item_childIndex(DropTarget.java:769)
+	at org.eclipse.swt.dnd.DropTarget.dropTargetProc(DropTarget.java:506)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.dnd.DropTarget.dndCallSuper(DropTarget.java:236)
+	at org.eclipse.swt.dnd.DropTarget.performDragOperation(DropTarget.java:762)
+	at org.eclipse.swt.dnd.DropTarget.dropTargetProc(DropTarget.java:491)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:239)
+	at org.eclipse.swt.widgets.Widget.mouseDownSuper(Widget.java:1216)
+	at org.eclipse.swt.widgets.Tree.mouseDownSuper(Tree.java:2190)
+	at org.eclipse.swt.widgets.Widget.mouseDown(Widget.java:1208)
+	at org.eclipse.swt.widgets.Control.mouseDown(Control.java:2593)
+	at org.eclipse.swt.widgets.Tree.mouseDown(Tree.java:2157)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6285)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:239)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2407)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2502)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6401)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5705)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5845)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4000)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:670)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:607)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1492)
+
+!ENTRY org.eclipse.ui 4 0 2025-04-12 15:36:51.497
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IFile.getLocation()" because "file" is null
+	at com.microsoft.copilot.eclipse.core.utils.FileUtils.getFileUri(FileUtils.java:24)
+	at com.microsoft.copilot.eclipse.core.completion.CompletionProvider.triggerCompletion(CompletionProvider.java:68)
+	at com.microsoft.copilot.eclipse.ui.completion.CompletionManager.triggerCompletion(CompletionManager.java:465)
+	at com.microsoft.copilot.eclipse.ui.completion.CompletionManager.caretMoved(CompletionManager.java:288)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:101)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.custom.StyledText.setCaretOffsets(StyledText.java:8603)
+	at org.eclipse.swt.custom.StyledText.reset(StyledText.java:7791)
+	at org.eclipse.swt.custom.StyledText.setContent(StyledText.java:8679)
+	at org.eclipse.jface.text.TextViewer.initializeWidgetContents(TextViewer.java:3460)
+	at org.eclipse.jface.text.TextViewer.setVisibleDocument(TextViewer.java:3502)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.setVisibleDocument(ProjectionViewer.java:700)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaSourceViewer.setVisibleDocument(JavaSourceViewer.java:646)
+	at org.eclipse.jface.text.TextViewer.setDocument(TextViewer.java:2891)
+	at org.eclipse.jface.text.source.SourceViewer.setDocument(SourceViewer.java:683)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.setDocument(ProjectionViewer.java:368)
+	at org.eclipse.jface.text.source.SourceViewer.setDocument(SourceViewer.java:633)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.initializeSourceViewer(AbstractTextEditor.java:3990)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4193)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1526)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.internalDoSetInput(JavaEditor.java:2567)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.doSetInput(JavaEditor.java:2554)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSetInput(CompilationUnitEditor.java:1410)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInputWithNotify(AbstractTextEditor.java:4249)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInput(AbstractTextEditor.java:4269)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener$1.run(AbstractTextEditor.java:537)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.execute(AbstractTextEditor.java:598)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.elementMoved(AbstractTextEditor.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider$FileBufferListener.underlyingFileMoved(TextFileDocumentProvider.java:335)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager$6.run(TextFileBufferManager.java:710)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.fireUnderlyingFileMoved(TextFileBufferManager.java:707)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.handleFileMoved(ResourceFileBuffer.java:422)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer$3.execute(ResourceFileBuffer.java:163)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$SafeFileChange.run(ResourceFileBuffer.java:86)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:168)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:370)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:325)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:636)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:148)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMoveWizard$MoveInputPage.performFinish(ReorgMoveWizard.java:123)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:451)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:468)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:83)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:286)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.lambda$0(RefactoringWizardOpenOperation.java:190)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:209)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:126)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RefactoringStarter.activate(RefactoringStarter.java:41)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMoveStarter.run(ReorgMoveStarter.java:83)
+	at org.eclipse.jdt.internal.ui.packageview.SelectionTransferDropAdapter.handleDropMove(SelectionTransferDropAdapter.java:268)
+	at org.eclipse.jdt.internal.ui.packageview.SelectionTransferDropAdapter.performDrop(SelectionTransferDropAdapter.java:205)
+	at org.eclipse.jdt.internal.ui.dnd.JdtViewerDropAdapter.drop(JdtViewerDropAdapter.java:251)
+	at org.eclipse.jface.util.DelegatingDropAdapter$3.run(DelegatingDropAdapter.java:227)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.util.DelegatingDropAdapter.drop(DelegatingDropAdapter.java:224)
+	at org.eclipse.swt.dnd.DNDListener.handleEvent(DNDListener.java:104)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.dnd.DropTarget.drop(DropTarget.java:751)
+	at org.eclipse.swt.dnd.DropTarget.outlineView_acceptDrop_item_childIndex(DropTarget.java:769)
+	at org.eclipse.swt.dnd.DropTarget.dropTargetProc(DropTarget.java:506)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.dnd.DropTarget.dndCallSuper(DropTarget.java:236)
+	at org.eclipse.swt.dnd.DropTarget.performDragOperation(DropTarget.java:762)
+	at org.eclipse.swt.dnd.DropTarget.dropTargetProc(DropTarget.java:491)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:239)
+	at org.eclipse.swt.widgets.Widget.mouseDownSuper(Widget.java:1216)
+	at org.eclipse.swt.widgets.Tree.mouseDownSuper(Tree.java:2190)
+	at org.eclipse.swt.widgets.Widget.mouseDown(Widget.java:1208)
+	at org.eclipse.swt.widgets.Control.mouseDown(Control.java:2593)
+	at org.eclipse.swt.widgets.Tree.mouseDown(Tree.java:2157)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6285)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:239)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2407)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2502)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6401)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5705)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5845)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4000)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:670)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:607)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1492)
+
+!ENTRY org.eclipse.ui 4 0 2025-04-12 15:38:31.367
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IFile.getLocation()" because "file" is null
+	at com.microsoft.copilot.eclipse.core.utils.FileUtils.getFileUri(FileUtils.java:24)
+	at com.microsoft.copilot.eclipse.core.completion.CompletionProvider.triggerCompletion(CompletionProvider.java:68)
+	at com.microsoft.copilot.eclipse.ui.completion.CompletionManager.triggerCompletion(CompletionManager.java:465)
+	at com.microsoft.copilot.eclipse.ui.completion.CompletionManager.caretMoved(CompletionManager.java:288)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:101)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.custom.StyledText.setCaretOffsets(StyledText.java:8603)
+	at org.eclipse.swt.custom.StyledText.reset(StyledText.java:7791)
+	at org.eclipse.swt.custom.StyledText.setContent(StyledText.java:8679)
+	at org.eclipse.jface.text.TextViewer.initializeWidgetContents(TextViewer.java:3460)
+	at org.eclipse.jface.text.TextViewer.setVisibleDocument(TextViewer.java:3502)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.setVisibleDocument(ProjectionViewer.java:700)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaSourceViewer.setVisibleDocument(JavaSourceViewer.java:646)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.executeReplaceVisibleDocument(ProjectionViewer.java:755)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.replaceVisibleDocument(ProjectionViewer.java:743)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.reinitializeProjection(ProjectionViewer.java:1221)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.catchupWithProjectionAnnotationModel(ProjectionViewer.java:937)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.processCatchupRequest(ProjectionViewer.java:857)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer$AnnotationModelListener.processModelChanged(ProjectionViewer.java:122)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer$AnnotationModelListener.modelChanged(ProjectionViewer.java:114)
+	at org.eclipse.jface.text.source.AnnotationModel.fireModelChanged(AnnotationModel.java:592)
+	at org.eclipse.jface.text.source.AnnotationModel$InternalModelListener.modelChanged(AnnotationModel.java:256)
+	at org.eclipse.jface.text.source.AnnotationModel.fireModelChanged(AnnotationModel.java:592)
+	at org.eclipse.jface.text.source.AnnotationModel.fireModelChanged(AnnotationModel.java:558)
+	at org.eclipse.jface.text.source.projection.ProjectionAnnotationModel.modifyAnnotations(ProjectionAnnotationModel.java:192)
+	at org.eclipse.jdt.ui.text.folding.DefaultJavaFoldingStructureProvider.update(DefaultJavaFoldingStructureProvider.java:1270)
+	at org.eclipse.jdt.ui.text.folding.DefaultJavaFoldingStructureProvider.initialize(DefaultJavaFoldingStructureProvider.java:1148)
+	at org.eclipse.jdt.ui.text.folding.DefaultJavaFoldingStructureProvider.handleProjectionEnabled(DefaultJavaFoldingStructureProvider.java:1118)
+	at org.eclipse.jdt.ui.text.folding.DefaultJavaFoldingStructureProvider$ProjectionListener.projectionEnabled(DefaultJavaFoldingStructureProvider.java:978)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.fireProjectionEnabled(ProjectionViewer.java:475)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.enableProjection(ProjectionViewer.java:523)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaSourceViewer.setVisibleDocument(JavaSourceViewer.java:639)
+	at org.eclipse.jface.text.TextViewer.setDocument(TextViewer.java:2891)
+	at org.eclipse.jface.text.source.SourceViewer.setDocument(SourceViewer.java:683)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.setDocument(ProjectionViewer.java:368)
+	at org.eclipse.jface.text.source.SourceViewer.setDocument(SourceViewer.java:633)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.initializeSourceViewer(AbstractTextEditor.java:3990)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4193)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1526)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.internalDoSetInput(JavaEditor.java:2567)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.doSetInput(JavaEditor.java:2554)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSetInput(CompilationUnitEditor.java:1410)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInputWithNotify(AbstractTextEditor.java:4249)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInput(AbstractTextEditor.java:4269)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener$1.run(AbstractTextEditor.java:537)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.execute(AbstractTextEditor.java:598)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.elementMoved(AbstractTextEditor.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider$FileBufferListener.underlyingFileMoved(TextFileDocumentProvider.java:335)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager$6.run(TextFileBufferManager.java:710)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.fireUnderlyingFileMoved(TextFileBufferManager.java:707)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.handleFileMoved(ResourceFileBuffer.java:422)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer$3.execute(ResourceFileBuffer.java:163)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$SafeFileChange.run(ResourceFileBuffer.java:86)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:168)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:370)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:325)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:636)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:148)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:451)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:468)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:83)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:286)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.lambda$0(RefactoringWizardOpenOperation.java:190)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:209)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:126)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RefactoringStarter.activate(RefactoringStarter.java:41)
+	at org.eclipse.jdt.internal.ui.refactoring.UserInterfaceStarter.activate(UserInterfaceStarter.java:65)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.RenameUserInterfaceStarter.activate(RenameUserInterfaceStarter.java:35)
+	at org.eclipse.jdt.ui.refactoring.RenameSupport.openDialog(RenameSupport.java:165)
+	at org.eclipse.jdt.ui.refactoring.RenameSupport.openDialog(RenameSupport.java:121)
+	at org.eclipse.jdt.internal.corext.refactoring.RefactoringExecutionStarter.startRenameRefactoring(RefactoringExecutionStarter.java:460)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RenameJavaElementAction.run(RenameJavaElementAction.java:248)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RenameJavaElementAction.run(RenameJavaElementAction.java:123)
+	at org.eclipse.jdt.ui.actions.RenameAction.run(RenameAction.java:113)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:670)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:607)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1492)
+
+!ENTRY org.eclipse.ui 4 0 2025-04-12 15:38:31.495
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.resources.IFile.getLocation()" because "file" is null
+	at com.microsoft.copilot.eclipse.core.utils.FileUtils.getFileUri(FileUtils.java:24)
+	at com.microsoft.copilot.eclipse.core.completion.CompletionProvider.triggerCompletion(CompletionProvider.java:68)
+	at com.microsoft.copilot.eclipse.ui.completion.CompletionManager.triggerCompletion(CompletionManager.java:465)
+	at com.microsoft.copilot.eclipse.ui.completion.CompletionManager.caretMoved(CompletionManager.java:288)
+	at org.eclipse.swt.custom.StyledTextListener.handleEvent(StyledTextListener.java:101)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.custom.StyledText.setCaretOffsets(StyledText.java:8603)
+	at org.eclipse.swt.custom.StyledText.reset(StyledText.java:7791)
+	at org.eclipse.swt.custom.StyledText.setContent(StyledText.java:8679)
+	at org.eclipse.jface.text.TextViewer.initializeWidgetContents(TextViewer.java:3460)
+	at org.eclipse.jface.text.TextViewer.setVisibleDocument(TextViewer.java:3502)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.setVisibleDocument(ProjectionViewer.java:700)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaSourceViewer.setVisibleDocument(JavaSourceViewer.java:646)
+	at org.eclipse.jface.text.TextViewer.setDocument(TextViewer.java:2891)
+	at org.eclipse.jface.text.source.SourceViewer.setDocument(SourceViewer.java:683)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.setDocument(ProjectionViewer.java:368)
+	at org.eclipse.jface.text.source.SourceViewer.setDocument(SourceViewer.java:633)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.initializeSourceViewer(AbstractTextEditor.java:3990)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4193)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1526)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.internalDoSetInput(JavaEditor.java:2567)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.doSetInput(JavaEditor.java:2554)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSetInput(CompilationUnitEditor.java:1410)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInputWithNotify(AbstractTextEditor.java:4249)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInput(AbstractTextEditor.java:4269)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener$1.run(AbstractTextEditor.java:537)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.execute(AbstractTextEditor.java:598)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.elementMoved(AbstractTextEditor.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider$FileBufferListener.underlyingFileMoved(TextFileDocumentProvider.java:335)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager$6.run(TextFileBufferManager.java:710)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.fireUnderlyingFileMoved(TextFileBufferManager.java:707)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.handleFileMoved(ResourceFileBuffer.java:422)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer$3.execute(ResourceFileBuffer.java:163)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$SafeFileChange.run(ResourceFileBuffer.java:86)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:168)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:370)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:325)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:636)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:148)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:451)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:468)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:83)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:286)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.lambda$0(RefactoringWizardOpenOperation.java:190)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:209)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:126)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RefactoringStarter.activate(RefactoringStarter.java:41)
+	at org.eclipse.jdt.internal.ui.refactoring.UserInterfaceStarter.activate(UserInterfaceStarter.java:65)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.RenameUserInterfaceStarter.activate(RenameUserInterfaceStarter.java:35)
+	at org.eclipse.jdt.ui.refactoring.RenameSupport.openDialog(RenameSupport.java:165)
+	at org.eclipse.jdt.ui.refactoring.RenameSupport.openDialog(RenameSupport.java:121)
+	at org.eclipse.jdt.internal.corext.refactoring.RefactoringExecutionStarter.startRenameRefactoring(RefactoringExecutionStarter.java:460)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RenameJavaElementAction.run(RenameJavaElementAction.java:248)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RenameJavaElementAction.run(RenameJavaElementAction.java:123)
+	at org.eclipse.jdt.ui.actions.RenameAction.run(RenameAction.java:113)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:670)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:607)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1492)
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 15:42:06.925
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 1518.0520480014384 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 15:42:06.927
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [86d10c64-e77c-425c-910a-fed74c8ec73d] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 15:42:06.928
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:05.641
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:05.642
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [0b507603-6872-45ee-8887-479eb0b40d10] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:05.643
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 651.8525390010327 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:13.914
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 311.98450100049376 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:13.914
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:13.915
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [ef508e1f-95cd-40b5-a3ea-f98cc588011e] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:40.792
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:40.793
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 296.5458370000124 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:40.794
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [ca3effce-1aec-4063-8173-352ee173cb4b] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:42.802
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 430.20861100032926 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:42.804
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:42.806
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [de37d3d9-6ab3-4144-8d01-910abd90f959] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:43.123
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 270.2607279997319 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:43.124
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:43.126
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [d860041e-3b9b-490e-807a-258f0a2031bd] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:43.701
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:43.702
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 422.65595600008965 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:43.706
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [eb1cae48-8765-4d9a-82b7-0d98387bccb9] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:44.934
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 279.9363360013813 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:44.935
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:44.938
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [df0d9a3d-7148-4ff6-8c17-ccd68bb38bcc] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:59.375
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 299.6316119991243 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:59.379
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:12:59.380
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [1a598935-df06-4b2e-9f6c-6aab69763b87] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:10.564
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 337.3978550005704 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:10.566
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:10.566
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [94e921ca-70b9-40b8-802c-0d367fbe5a21] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:11.463
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 743.0477269999683 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:11.468
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [ed552abd-893b-4fa3-bedf-f2a7fe191694] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:11.468
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:14.185
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 478.32048199884593 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:14.196
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:14.197
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [77dcde74-782f-4f62-8281-223ec0c24559] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:16.337
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 297.090066999197 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:16.337
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:16.339
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [58d490f9-685d-4ac2-b5e6-2f6e6c392741] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:31.131
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 309.9216740000993 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:31.132
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:31.133
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [0a848f10-144f-4760-9c18-18943d3c40f3] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:31.452
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:31.452
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 276.9935259986669 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:31.453
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [82c82af5-58fb-461c-a501-284965c8983e] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:31.859
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 385.1669600009918 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:31.859
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [443a479f-b0e9-408d-9021-034474e2086d] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:31.860
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:32.195
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 312.15975899994373 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:32.195
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [8b6a595e-2c48-466a-a725-b170fd40e813] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:32.196
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:33.207
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 362.071876000613 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:33.212
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [467e7c68-a029-4cc8-b82d-7b4a67443a11] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:33.213
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:35.928
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 815.6703659985214 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:35.935
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:35.936
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [fd94f8e7-00b8-4009-adf3-2084b4c5e520] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:40.449
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 676.83043500036 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:40.449
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:40.449
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [b2ae71ac-751a-4bae-ab23-f3f30ce1ec4b] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:49.025
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 361.55093399994075 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:49.027
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [bf272c3e-91e5-4c71-8f44-ad86df458766] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:49.027
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:50.973
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 344.5858760010451 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:50.973
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [2f53e4e1-b933-4ad1-8825-a3c331995066] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:50.974
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:52.460
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 284.15195900015533 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:52.461
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:13:52.461
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [dc87614e-2e20-43da-9d47-1b5a678a5db7] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:14:00.006
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 427.07693099975586 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:14:00.019
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:14:00.020
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [9d04e680-6dd3-4650-8d09-8ebb83ab4924] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:14:24.618
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 669.4518839996308 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:14:24.777
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:14:24.778
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [4fe95a0c-e93f-41c1-b0b0-cf2955c51bf9] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:22.655
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 416.9608120005578 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:22.656
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:22.656
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [b6f113ed-2841-4db9-9afd-cea5932a02d8] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:27.560
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 1075.274191999808 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:27.724
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [669f8db2-68ba-4efa-a0dd-974e2240f023] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:27.725
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:30.917
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 275.61876400001347 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:30.918
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:30.919
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [a00fd5e7-c813-441e-abe3-41e75d50cd5a] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:35.627
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 298.71860899962485 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:35.628
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [b24a1504-8b0c-4f0e-bfb3-3e9157dc6255] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:35.628
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:44.645
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 288.2535890005529 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:44.645
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [ba9dbf55-e5cc-4f23-be9f-2828f2185e2f] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:44.645
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:46.815
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 776.7459559999406 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:46.816
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [57d28c8b-bff8-472e-ad4e-5f71852bf5ad] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:46.816
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:47.138
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 299.0397260002792 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:47.139
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:15:47.139
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [c55f48a3-2023-4185-a94e-bbe8f62867e8] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:16:05.863
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 437.7080600000918 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:16:05.864
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:16:05.865
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [8c78a30a-0da5-478d-871b-1a6e18586a08] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:16:15.282
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 481.45371600054204 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:16:15.283
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [ca3b8d05-707a-452c-b20b-4cb0e301faac] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:16:15.283
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:16:55.422
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 485.6786709986627 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:16:55.422
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [8024d894-0314-4807-8ef3-77f151bc9fca] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:16:55.423
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:31.450
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 298.67509600147605 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:31.450
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [6152049e-00f8-420b-b260-1c5df2140b34] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:31.451
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:32.007
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 341.5996809992939 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:32.007
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:32.008
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [12006b42-6e62-4af9-8c58-6137b2734444] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:40.068
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 466.3105059992522 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:40.069
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:40.070
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [39af5961-4f0a-48a4-9f12-b106a5078035] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:40.449
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 355.49086100049317 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:40.449
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:17:40.450
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [b357fe5a-2595-40a3-830c-80bacee3cd73] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:09.561
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 529.893551999703 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:09.561
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [78c8c311-4b0d-4f96-9c71-c67033e55982] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:09.562
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:44.445
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 475.6497809998691 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:44.457
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:44.458
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [b9ef8afd-e1f4-47bd-be90-7d8a48db506d] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:48.100
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:48.101
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [fa64be56-f5b6-4e91-9f47-2db4db64b223] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:48.102
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 276.6813030000776 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:56.788
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:56.789
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [c1113cd1-7628-4991-a590-eedea6ed65de] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:56.801
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 477.6957549992949 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:58.679
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 313.13434900157154 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:58.680
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:18:58.680
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [f956280e-92df-4689-877f-044240369fc3] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:19:00.890
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 278.47660700045526 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:19:00.891
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [07a9cfc0-5817-4294-8c39-3acca38035da] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:19:00.892
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:19:03.627
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 536.262719001621 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:19:03.628
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:19:03.628
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [f7db8fc7-ded3-4bef-8088-9c11f6507ff6] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:19:27.383
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 468.5943730007857 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:19:27.384
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:19:27.385
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [b40d669d-7aac-4f33-8110-09a1f4b778e8] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:01.756
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 413.127940999344 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:01.756
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:01.757
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [1c343acf-0b98-4bb6-9aa7-5172f3ecae23] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:04.155
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:04.155
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [2b94105c-f1dc-49c3-87dc-63988affa3b4] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:04.156
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 279.71742399968207 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:04.657
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:04.657
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [254a5f35-dac9-4f65-bf06-fdf064b3794e] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:04.658
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 473.9332740008831 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:08.756
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 412.41244399920106 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:08.757
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:08.757
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [7b16abbf-5fea-4843-9f9e-8e9a944514f5] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:10.233
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 449.67832800000906 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:10.234
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [c6be34c2-c631-451d-8dda-78433564edbc] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:10.237
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:13.070
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/gpt-4o-copilot/completions] took 277.393123999238 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:13.082
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [112e5737-dbb5-4e97-bcff-6bd515800de6] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-12 16:20:13.083
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
