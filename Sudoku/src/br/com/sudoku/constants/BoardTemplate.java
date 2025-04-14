@@ -1,8 +1,8 @@
-package br.com.sudoku.models;
+package br.com.sudoku.constants;
 
 public final class BoardTemplate {
 	
-	public final String BOARD_TEMPLATE = """
+	public static final String BOARD_TEMPLATE = """
 			
 			|*************************************************************************************|
 			|*|---0---||---1---||---2---|*|---3---||---4---||---5---|*|---6---||---7---||---8---|*|

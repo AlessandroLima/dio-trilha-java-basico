@@ -6,7 +6,7 @@ public class Space {
 	private final boolean fixed;
 	private final int expected;
 	
-	public Space(boolean fixed, Integer actual, int spected) {
+	public Space(int spected, boolean fixed) {
 		super();
 		this.fixed = fixed;
 		this.expected = spected;
